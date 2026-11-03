@@ -1,0 +1,4910 @@
+[
+  {
+    "review_id": "R-00001",
+    "product_id": "VL-20002",
+    "stars": 3,
+    "date": "2026-03-08"
+  },
+  {
+    "review_id": "R-00002",
+    "product_id": "VL-20002",
+    "stars": 3,
+    "date": "2026-08-21"
+  },
+  {
+    "review_id": "R-00003",
+    "product_id": "VL-20002",
+    "stars": 4,
+    "date": "2026-01-26"
+  },
+  {
+    "review_id": "R-00004",
+    "product_id": "VL-20002",
+    "stars": 4,
+    "date": "2026-08-10"
+  },
+  {
+    "review_id": "R-00005",
+    "product_id": "VL-20002",
+    "stars": 3,
+    "date": "2026-08-12"
+  },
+  {
+    "review_id": "R-00006",
+    "product_id": "VL-20003",
+    "stars": 3,
+    "date": "2026-07-23"
+  },
+  {
+    "review_id": "R-00007",
+    "product_id": "VL-20003",
+    "stars": 3,
+    "date": "2026-04-13"
+  },
+  {
+    "review_id": "R-00008",
+    "product_id": "VL-20003",
+    "stars": 5,
+    "date": "2026-08-04"
+  },
+  {
+    "review_id": "R-00009",
+    "product_id": "VL-20003",
+    "stars": 3,
+    "date": "2026-05-23"
+  },
+  {
+    "review_id": "R-00010",
+    "product_id": "VL-20003",
+    "stars": 4,
+    "date": "2026-05-01"
+  },
+  {
+    "review_id": "R-00011",
+    "product_id": "VL-20003",
+    "stars": 5,
+    "date": "2026-05-01"
+  },
+  {
+    "review_id": "R-00012",
+    "product_id": "VL-20004",
+    "stars": 3,
+    "date": "2026-01-20"
+  },
+  {
+    "review_id": "R-00013",
+    "product_id": "VL-20004",
+    "stars": 4,
+    "date": "2026-05-25"
+  },
+  {
+    "review_id": "R-00014",
+    "product_id": "VL-20004",
+    "stars": 2,
+    "date": "2026-04-20"
+  },
+  {
+    "review_id": "R-00015",
+    "product_id": "VL-20004",
+    "stars": 4,
+    "date": "2026-04-20"
+  },
+  {
+    "review_id": "R-00016",
+    "product_id": "VL-20004",
+    "stars": 3,
+    "date": "2026-05-22"
+  },
+  {
+    "review_id": "R-00017",
+    "product_id": "VL-20004",
+    "stars": 4,
+    "date": "2026-03-21"
+  },
+  {
+    "review_id": "R-00018",
+    "product_id": "VL-20004",
+    "stars": 2,
+    "date": "2026-02-21"
+  },
+  {
+    "review_id": "R-00019",
+    "product_id": "VL-20004",
+    "stars": 3,
+    "date": "2026-08-02"
+  },
+  {
+    "review_id": "R-00020",
+    "product_id": "VL-20005",
+    "stars": 3,
+    "date": "2026-03-03"
+  },
+  {
+    "review_id": "R-00021",
+    "product_id": "VL-20005",
+    "stars": 4,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00022",
+    "product_id": "VL-20005",
+    "stars": 3,
+    "date": "2026-04-05"
+  },
+  {
+    "review_id": "R-00023",
+    "product_id": "VL-20005",
+    "stars": 4,
+    "date": "2026-06-17"
+  },
+  {
+    "review_id": "R-00024",
+    "product_id": "VL-20005",
+    "stars": 2,
+    "date": "2026-09-09"
+  },
+  {
+    "review_id": "R-00025",
+    "product_id": "VL-20005",
+    "stars": 4,
+    "date": "2026-08-26"
+  },
+  {
+    "review_id": "R-00026",
+    "product_id": "VL-20005",
+    "stars": 3,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00027",
+    "product_id": "VL-20005",
+    "stars": 5,
+    "date": "2026-08-03"
+  },
+  {
+    "review_id": "R-00028",
+    "product_id": "VL-20007",
+    "stars": 3,
+    "date": "2026-07-28"
+  },
+  {
+    "review_id": "R-00029",
+    "product_id": "VL-20007",
+    "stars": 4,
+    "date": "2026-07-01"
+  },
+  {
+    "review_id": "R-00030",
+    "product_id": "VL-20007",
+    "stars": 3,
+    "date": "2026-05-18"
+  },
+  {
+    "review_id": "R-00031",
+    "product_id": "VL-20007",
+    "stars": 4,
+    "date": "2026-05-19"
+  },
+  {
+    "review_id": "R-00032",
+    "product_id": "VL-20007",
+    "stars": 4,
+    "date": "2026-07-27"
+  },
+  {
+    "review_id": "R-00033",
+    "product_id": "VL-20007",
+    "stars": 3,
+    "date": "2026-04-16"
+  },
+  {
+    "review_id": "R-00034",
+    "product_id": "VL-20007",
+    "stars": 3,
+    "date": "2026-01-20"
+  },
+  {
+    "review_id": "R-00035",
+    "product_id": "VL-20007",
+    "stars": 5,
+    "date": "2026-04-21"
+  },
+  {
+    "review_id": "R-00036",
+    "product_id": "VL-20009",
+    "stars": 3,
+    "date": "2026-05-21"
+  },
+  {
+    "review_id": "R-00037",
+    "product_id": "VL-20009",
+    "stars": 4,
+    "date": "2026-01-10"
+  },
+  {
+    "review_id": "R-00038",
+    "product_id": "VL-20009",
+    "stars": 4,
+    "date": "2026-08-04"
+  },
+  {
+    "review_id": "R-00039",
+    "product_id": "VL-20009",
+    "stars": 5,
+    "date": "2026-03-13"
+  },
+  {
+    "review_id": "R-00040",
+    "product_id": "VL-20009",
+    "stars": 5,
+    "date": "2026-08-12"
+  },
+  {
+    "review_id": "R-00041",
+    "product_id": "VL-20009",
+    "stars": 3,
+    "date": "2026-09-14"
+  },
+  {
+    "review_id": "R-00042",
+    "product_id": "VL-20009",
+    "stars": 3,
+    "date": "2026-03-14"
+  },
+  {
+    "review_id": "R-00043",
+    "product_id": "VL-20009",
+    "stars": 3,
+    "date": "2026-07-09"
+  },
+  {
+    "review_id": "R-00044",
+    "product_id": "VL-20011",
+    "stars": 3,
+    "date": "2026-08-08"
+  },
+  {
+    "review_id": "R-00045",
+    "product_id": "VL-20011",
+    "stars": 4,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00046",
+    "product_id": "VL-20011",
+    "stars": 4,
+    "date": "2026-06-02"
+  },
+  {
+    "review_id": "R-00047",
+    "product_id": "VL-20011",
+    "stars": 4,
+    "date": "2026-02-28"
+  },
+  {
+    "review_id": "R-00048",
+    "product_id": "VL-20012",
+    "stars": 5,
+    "date": "2026-04-21"
+  },
+  {
+    "review_id": "R-00049",
+    "product_id": "VL-20013",
+    "stars": 5,
+    "date": "2026-03-26"
+  },
+  {
+    "review_id": "R-00050",
+    "product_id": "VL-20014",
+    "stars": 4,
+    "date": "2026-09-07"
+  },
+  {
+    "review_id": "R-00051",
+    "product_id": "VL-20015",
+    "stars": 3,
+    "date": "2026-01-09"
+  },
+  {
+    "review_id": "R-00052",
+    "product_id": "VL-20015",
+    "stars": 4,
+    "date": "2026-03-05"
+  },
+  {
+    "review_id": "R-00053",
+    "product_id": "VL-20016",
+    "stars": 5,
+    "date": "2026-03-01"
+  },
+  {
+    "review_id": "R-00054",
+    "product_id": "VL-20016",
+    "stars": 5,
+    "date": "2026-06-26"
+  },
+  {
+    "review_id": "R-00055",
+    "product_id": "VL-20017",
+    "stars": 4,
+    "date": "2026-01-05"
+  },
+  {
+    "review_id": "R-00056",
+    "product_id": "VL-20017",
+    "stars": 4,
+    "date": "2026-07-17"
+  },
+  {
+    "review_id": "R-00057",
+    "product_id": "VL-20017",
+    "stars": 4,
+    "date": "2026-08-25"
+  },
+  {
+    "review_id": "R-00058",
+    "product_id": "VL-20017",
+    "stars": 4,
+    "date": "2026-06-17"
+  },
+  {
+    "review_id": "R-00059",
+    "product_id": "VL-20017",
+    "stars": 3,
+    "date": "2026-04-20"
+  },
+  {
+    "review_id": "R-00060",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-05-15"
+  },
+  {
+    "review_id": "R-00061",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "review_id": "R-00062",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-07-14"
+  },
+  {
+    "review_id": "R-00063",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "review_id": "R-00064",
+    "product_id": "VL-20019",
+    "stars": 2,
+    "date": "2026-02-11"
+  },
+  {
+    "review_id": "R-00065",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-05-20"
+  },
+  {
+    "review_id": "R-00066",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-09-23"
+  },
+  {
+    "review_id": "R-00067",
+    "product_id": "VL-20019",
+    "stars": 2,
+    "date": "2026-09-10"
+  },
+  {
+    "review_id": "R-00068",
+    "product_id": "VL-20019",
+    "stars": 5,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00069",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-02-28"
+  },
+  {
+    "review_id": "R-00070",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-09-24"
+  },
+  {
+    "review_id": "R-00071",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-04-14"
+  },
+  {
+    "review_id": "R-00072",
+    "product_id": "VL-20019",
+    "stars": 2,
+    "date": "2026-06-27"
+  },
+  {
+    "review_id": "R-00073",
+    "product_id": "VL-20019",
+    "stars": 2,
+    "date": "2026-02-11"
+  },
+  {
+    "review_id": "R-00074",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-07-11"
+  },
+  {
+    "review_id": "R-00075",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-03-22"
+  },
+  {
+    "review_id": "R-00076",
+    "product_id": "VL-20019",
+    "stars": 2,
+    "date": "2026-08-03"
+  },
+  {
+    "review_id": "R-00077",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-07-04"
+  },
+  {
+    "review_id": "R-00078",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-06-26"
+  },
+  {
+    "review_id": "R-00079",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-09-18"
+  },
+  {
+    "review_id": "R-00080",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-06-22"
+  },
+  {
+    "review_id": "R-00081",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-07-28"
+  },
+  {
+    "review_id": "R-00082",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-01-10"
+  },
+  {
+    "review_id": "R-00083",
+    "product_id": "VL-20019",
+    "stars": 2,
+    "date": "2026-09-07"
+  },
+  {
+    "review_id": "R-00084",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-03-22"
+  },
+  {
+    "review_id": "R-00085",
+    "product_id": "VL-20019",
+    "stars": 1,
+    "date": "2026-06-28"
+  },
+  {
+    "review_id": "R-00086",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-09-12"
+  },
+  {
+    "review_id": "R-00087",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-04-26"
+  },
+  {
+    "review_id": "R-00088",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-07-28"
+  },
+  {
+    "review_id": "R-00089",
+    "product_id": "VL-20019",
+    "stars": 2,
+    "date": "2026-09-01"
+  },
+  {
+    "review_id": "R-00090",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-05-01"
+  },
+  {
+    "review_id": "R-00091",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-05-11"
+  },
+  {
+    "review_id": "R-00092",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-06-01"
+  },
+  {
+    "review_id": "R-00093",
+    "product_id": "VL-20019",
+    "stars": 3,
+    "date": "2026-07-03"
+  },
+  {
+    "review_id": "R-00094",
+    "product_id": "VL-20019",
+    "stars": 4,
+    "date": "2026-03-24"
+  },
+  {
+    "review_id": "R-00095",
+    "product_id": "VL-20020",
+    "stars": 4,
+    "date": "2026-07-14"
+  },
+  {
+    "review_id": "R-00096",
+    "product_id": "VL-20021",
+    "stars": 4,
+    "date": "2026-06-10"
+  },
+  {
+    "review_id": "R-00097",
+    "product_id": "VL-20021",
+    "stars": 3,
+    "date": "2026-02-02"
+  },
+  {
+    "review_id": "R-00098",
+    "product_id": "VL-20021",
+    "stars": 2,
+    "date": "2026-03-06"
+  },
+  {
+    "review_id": "R-00099",
+    "product_id": "VL-20022",
+    "stars": 4,
+    "date": "2026-07-16"
+  },
+  {
+    "review_id": "R-00100",
+    "product_id": "VL-20023",
+    "stars": 4,
+    "date": "2026-05-07"
+  },
+  {
+    "review_id": "R-00101",
+    "product_id": "VL-20023",
+    "stars": 4,
+    "date": "2026-07-04"
+  },
+  {
+    "review_id": "R-00102",
+    "product_id": "VL-20023",
+    "stars": 4,
+    "date": "2026-05-22"
+  },
+  {
+    "review_id": "R-00103",
+    "product_id": "VL-20023",
+    "stars": 4,
+    "date": "2026-05-02"
+  },
+  {
+    "review_id": "R-00104",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-01-01"
+  },
+  {
+    "review_id": "R-00105",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-03-25"
+  },
+  {
+    "review_id": "R-00106",
+    "product_id": "VL-20024",
+    "stars": 5,
+    "date": "2026-05-10"
+  },
+  {
+    "review_id": "R-00107",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00108",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-03-13"
+  },
+  {
+    "review_id": "R-00109",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-09-27"
+  },
+  {
+    "review_id": "R-00110",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-06-03"
+  },
+  {
+    "review_id": "R-00111",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-07-01"
+  },
+  {
+    "review_id": "R-00112",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-08-03"
+  },
+  {
+    "review_id": "R-00113",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-07-23"
+  },
+  {
+    "review_id": "R-00114",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-07-10"
+  },
+  {
+    "review_id": "R-00115",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00116",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-08-27"
+  },
+  {
+    "review_id": "R-00117",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-07-28"
+  },
+  {
+    "review_id": "R-00118",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-02-08"
+  },
+  {
+    "review_id": "R-00119",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-02-13"
+  },
+  {
+    "review_id": "R-00120",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00121",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-03-03"
+  },
+  {
+    "review_id": "R-00122",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-09-21"
+  },
+  {
+    "review_id": "R-00123",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-06-12"
+  },
+  {
+    "review_id": "R-00124",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-03-08"
+  },
+  {
+    "review_id": "R-00125",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-03-20"
+  },
+  {
+    "review_id": "R-00126",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-03-25"
+  },
+  {
+    "review_id": "R-00127",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-08-15"
+  },
+  {
+    "review_id": "R-00128",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-08-22"
+  },
+  {
+    "review_id": "R-00129",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-06-28"
+  },
+  {
+    "review_id": "R-00130",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-06-05"
+  },
+  {
+    "review_id": "R-00131",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-05-26"
+  },
+  {
+    "review_id": "R-00132",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-05-19"
+  },
+  {
+    "review_id": "R-00133",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-05-15"
+  },
+  {
+    "review_id": "R-00134",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-08-02"
+  },
+  {
+    "review_id": "R-00135",
+    "product_id": "VL-20024",
+    "stars": 5,
+    "date": "2026-02-21"
+  },
+  {
+    "review_id": "R-00136",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-02-20"
+  },
+  {
+    "review_id": "R-00137",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-09-26"
+  },
+  {
+    "review_id": "R-00138",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-01-15"
+  },
+  {
+    "review_id": "R-00139",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-04-11"
+  },
+  {
+    "review_id": "R-00140",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00141",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-02-26"
+  },
+  {
+    "review_id": "R-00142",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-06-23"
+  },
+  {
+    "review_id": "R-00143",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-01-08"
+  },
+  {
+    "review_id": "R-00144",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-08-15"
+  },
+  {
+    "review_id": "R-00145",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-06-12"
+  },
+  {
+    "review_id": "R-00146",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-05-13"
+  },
+  {
+    "review_id": "R-00147",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-01-26"
+  },
+  {
+    "review_id": "R-00148",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-06-03"
+  },
+  {
+    "review_id": "R-00149",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-07-10"
+  },
+  {
+    "review_id": "R-00150",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00151",
+    "product_id": "VL-20024",
+    "stars": 5,
+    "date": "2026-03-11"
+  },
+  {
+    "review_id": "R-00152",
+    "product_id": "VL-20024",
+    "stars": 1,
+    "date": "2026-02-19"
+  },
+  {
+    "review_id": "R-00153",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-05-21"
+  },
+  {
+    "review_id": "R-00154",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-07-05"
+  },
+  {
+    "review_id": "R-00155",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-05-18"
+  },
+  {
+    "review_id": "R-00156",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-07-21"
+  },
+  {
+    "review_id": "R-00157",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-09-03"
+  },
+  {
+    "review_id": "R-00158",
+    "product_id": "VL-20024",
+    "stars": 2,
+    "date": "2026-07-17"
+  },
+  {
+    "review_id": "R-00159",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-03-07"
+  },
+  {
+    "review_id": "R-00160",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-06-25"
+  },
+  {
+    "review_id": "R-00161",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-03-05"
+  },
+  {
+    "review_id": "R-00162",
+    "product_id": "VL-20024",
+    "stars": 3,
+    "date": "2026-02-10"
+  },
+  {
+    "review_id": "R-00163",
+    "product_id": "VL-20024",
+    "stars": 4,
+    "date": "2026-09-27"
+  },
+  {
+    "review_id": "R-00164",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-01-22"
+  },
+  {
+    "review_id": "R-00165",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-03-20"
+  },
+  {
+    "review_id": "R-00166",
+    "product_id": "VL-20025",
+    "stars": 5,
+    "date": "2026-07-05"
+  },
+  {
+    "review_id": "R-00167",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-03-24"
+  },
+  {
+    "review_id": "R-00168",
+    "product_id": "VL-20025",
+    "stars": 5,
+    "date": "2026-08-02"
+  },
+  {
+    "review_id": "R-00169",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00170",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-05-25"
+  },
+  {
+    "review_id": "R-00171",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-09-08"
+  },
+  {
+    "review_id": "R-00172",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-05-26"
+  },
+  {
+    "review_id": "R-00173",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-04-12"
+  },
+  {
+    "review_id": "R-00174",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-08-15"
+  },
+  {
+    "review_id": "R-00175",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-09-17"
+  },
+  {
+    "review_id": "R-00176",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00177",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-03-28"
+  },
+  {
+    "review_id": "R-00178",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-05-02"
+  },
+  {
+    "review_id": "R-00179",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-09-04"
+  },
+  {
+    "review_id": "R-00180",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-09-28"
+  },
+  {
+    "review_id": "R-00181",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-03-09"
+  },
+  {
+    "review_id": "R-00182",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00183",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-04-27"
+  },
+  {
+    "review_id": "R-00184",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-08-12"
+  },
+  {
+    "review_id": "R-00185",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-07-17"
+  },
+  {
+    "review_id": "R-00186",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-06-08"
+  },
+  {
+    "review_id": "R-00187",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-04-01"
+  },
+  {
+    "review_id": "R-00188",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-06-04"
+  },
+  {
+    "review_id": "R-00189",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-03-05"
+  },
+  {
+    "review_id": "R-00190",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-01-10"
+  },
+  {
+    "review_id": "R-00191",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-03-25"
+  },
+  {
+    "review_id": "R-00192",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-08-15"
+  },
+  {
+    "review_id": "R-00193",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-01-09"
+  },
+  {
+    "review_id": "R-00194",
+    "product_id": "VL-20025",
+    "stars": 2,
+    "date": "2026-04-27"
+  },
+  {
+    "review_id": "R-00195",
+    "product_id": "VL-20025",
+    "stars": 5,
+    "date": "2026-09-14"
+  },
+  {
+    "review_id": "R-00196",
+    "product_id": "VL-20025",
+    "stars": 5,
+    "date": "2026-02-25"
+  },
+  {
+    "review_id": "R-00197",
+    "product_id": "VL-20025",
+    "stars": 3,
+    "date": "2026-01-08"
+  },
+  {
+    "review_id": "R-00198",
+    "product_id": "VL-20025",
+    "stars": 4,
+    "date": "2026-07-21"
+  },
+  {
+    "review_id": "R-00199",
+    "product_id": "VL-20026",
+    "stars": 5,
+    "date": "2026-08-20"
+  },
+  {
+    "review_id": "R-00200",
+    "product_id": "VL-20026",
+    "stars": 4,
+    "date": "2026-09-01"
+  },
+  {
+    "review_id": "R-00201",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-03-10"
+  },
+  {
+    "review_id": "R-00202",
+    "product_id": "VL-20026",
+    "stars": 2,
+    "date": "2026-07-01"
+  },
+  {
+    "review_id": "R-00203",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00204",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-02-17"
+  },
+  {
+    "review_id": "R-00205",
+    "product_id": "VL-20026",
+    "stars": 4,
+    "date": "2026-09-18"
+  },
+  {
+    "review_id": "R-00206",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-09-26"
+  },
+  {
+    "review_id": "R-00207",
+    "product_id": "VL-20026",
+    "stars": 4,
+    "date": "2026-07-28"
+  },
+  {
+    "review_id": "R-00208",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-08-02"
+  },
+  {
+    "review_id": "R-00209",
+    "product_id": "VL-20026",
+    "stars": 2,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00210",
+    "product_id": "VL-20026",
+    "stars": 1,
+    "date": "2026-01-12"
+  },
+  {
+    "review_id": "R-00211",
+    "product_id": "VL-20026",
+    "stars": 4,
+    "date": "2026-02-25"
+  },
+  {
+    "review_id": "R-00212",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-06-05"
+  },
+  {
+    "review_id": "R-00213",
+    "product_id": "VL-20026",
+    "stars": 4,
+    "date": "2026-03-27"
+  },
+  {
+    "review_id": "R-00214",
+    "product_id": "VL-20026",
+    "stars": 4,
+    "date": "2026-08-23"
+  },
+  {
+    "review_id": "R-00215",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-03-03"
+  },
+  {
+    "review_id": "R-00216",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-08-02"
+  },
+  {
+    "review_id": "R-00217",
+    "product_id": "VL-20026",
+    "stars": 3,
+    "date": "2026-04-02"
+  },
+  {
+    "review_id": "R-00218",
+    "product_id": "VL-20026",
+    "stars": 4,
+    "date": "2026-06-10"
+  },
+  {
+    "review_id": "R-00219",
+    "product_id": "VL-20027",
+    "stars": 3,
+    "date": "2026-04-10"
+  },
+  {
+    "review_id": "R-00220",
+    "product_id": "VL-20027",
+    "stars": 4,
+    "date": "2026-06-28"
+  },
+  {
+    "review_id": "R-00221",
+    "product_id": "VL-20027",
+    "stars": 4,
+    "date": "2026-06-09"
+  },
+  {
+    "review_id": "R-00222",
+    "product_id": "VL-20027",
+    "stars": 2,
+    "date": "2026-02-26"
+  },
+  {
+    "review_id": "R-00223",
+    "product_id": "VL-20027",
+    "stars": 2,
+    "date": "2026-08-13"
+  },
+  {
+    "review_id": "R-00224",
+    "product_id": "VL-20028",
+    "stars": 5,
+    "date": "2026-08-23"
+  },
+  {
+    "review_id": "R-00225",
+    "product_id": "VL-20028",
+    "stars": 2,
+    "date": "2026-09-09"
+  },
+  {
+    "review_id": "R-00226",
+    "product_id": "VL-20029",
+    "stars": 3,
+    "date": "2026-02-14"
+  },
+  {
+    "review_id": "R-00227",
+    "product_id": "VL-20029",
+    "stars": 2,
+    "date": "2026-09-10"
+  },
+  {
+    "review_id": "R-00228",
+    "product_id": "VL-20029",
+    "stars": 2,
+    "date": "2026-06-04"
+  },
+  {
+    "review_id": "R-00229",
+    "product_id": "VL-20029",
+    "stars": 4,
+    "date": "2026-05-15"
+  },
+  {
+    "review_id": "R-00230",
+    "product_id": "VL-20029",
+    "stars": 4,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00231",
+    "product_id": "VL-20029",
+    "stars": 3,
+    "date": "2026-01-24"
+  },
+  {
+    "review_id": "R-00232",
+    "product_id": "VL-20029",
+    "stars": 2,
+    "date": "2026-06-20"
+  },
+  {
+    "review_id": "R-00233",
+    "product_id": "VL-20029",
+    "stars": 4,
+    "date": "2026-01-03"
+  },
+  {
+    "review_id": "R-00234",
+    "product_id": "VL-20029",
+    "stars": 3,
+    "date": "2026-07-12"
+  },
+  {
+    "review_id": "R-00235",
+    "product_id": "VL-20029",
+    "stars": 2,
+    "date": "2026-03-01"
+  },
+  {
+    "review_id": "R-00236",
+    "product_id": "VL-20029",
+    "stars": 3,
+    "date": "2026-03-28"
+  },
+  {
+    "review_id": "R-00237",
+    "product_id": "VL-20029",
+    "stars": 2,
+    "date": "2026-01-05"
+  },
+  {
+    "review_id": "R-00238",
+    "product_id": "VL-20031",
+    "stars": 3,
+    "date": "2026-06-13"
+  },
+  {
+    "review_id": "R-00239",
+    "product_id": "VL-20031",
+    "stars": 4,
+    "date": "2026-03-22"
+  },
+  {
+    "review_id": "R-00240",
+    "product_id": "VL-20031",
+    "stars": 3,
+    "date": "2026-08-12"
+  },
+  {
+    "review_id": "R-00241",
+    "product_id": "VL-20031",
+    "stars": 2,
+    "date": "2026-03-17"
+  },
+  {
+    "review_id": "R-00242",
+    "product_id": "VL-20031",
+    "stars": 5,
+    "date": "2026-06-13"
+  },
+  {
+    "review_id": "R-00243",
+    "product_id": "VL-20031",
+    "stars": 3,
+    "date": "2026-02-01"
+  },
+  {
+    "review_id": "R-00244",
+    "product_id": "VL-20031",
+    "stars": 4,
+    "date": "2026-03-16"
+  },
+  {
+    "review_id": "R-00245",
+    "product_id": "VL-20031",
+    "stars": 2,
+    "date": "2026-02-09"
+  },
+  {
+    "review_id": "R-00246",
+    "product_id": "VL-20032",
+    "stars": 4,
+    "date": "2026-08-07"
+  },
+  {
+    "review_id": "R-00247",
+    "product_id": "VL-20032",
+    "stars": 4,
+    "date": "2026-08-07"
+  },
+  {
+    "review_id": "R-00248",
+    "product_id": "VL-20032",
+    "stars": 4,
+    "date": "2026-02-05"
+  },
+  {
+    "review_id": "R-00249",
+    "product_id": "VL-20032",
+    "stars": 4,
+    "date": "2026-08-03"
+  },
+  {
+    "review_id": "R-00250",
+    "product_id": "VL-20032",
+    "stars": 3,
+    "date": "2026-06-22"
+  },
+  {
+    "review_id": "R-00251",
+    "product_id": "VL-20032",
+    "stars": 4,
+    "date": "2026-09-10"
+  },
+  {
+    "review_id": "R-00252",
+    "product_id": "VL-20032",
+    "stars": 4,
+    "date": "2026-05-28"
+  },
+  {
+    "review_id": "R-00253",
+    "product_id": "VL-20032",
+    "stars": 5,
+    "date": "2026-03-26"
+  },
+  {
+    "review_id": "R-00254",
+    "product_id": "VL-20033",
+    "stars": 5,
+    "date": "2026-02-07"
+  },
+  {
+    "review_id": "R-00255",
+    "product_id": "VL-20033",
+    "stars": 4,
+    "date": "2026-08-01"
+  },
+  {
+    "review_id": "R-00256",
+    "product_id": "VL-20033",
+    "stars": 3,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00257",
+    "product_id": "VL-20033",
+    "stars": 3,
+    "date": "2026-09-05"
+  },
+  {
+    "review_id": "R-00258",
+    "product_id": "VL-20034",
+    "stars": 3,
+    "date": "2026-02-10"
+  },
+  {
+    "review_id": "R-00259",
+    "product_id": "VL-20034",
+    "stars": 2,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00260",
+    "product_id": "VL-20035",
+    "stars": 4,
+    "date": "2026-02-05"
+  },
+  {
+    "review_id": "R-00261",
+    "product_id": "VL-20035",
+    "stars": 5,
+    "date": "2026-08-15"
+  },
+  {
+    "review_id": "R-00262",
+    "product_id": "VL-20035",
+    "stars": 3,
+    "date": "2026-09-12"
+  },
+  {
+    "review_id": "R-00263",
+    "product_id": "VL-20035",
+    "stars": 5,
+    "date": "2026-09-21"
+  },
+  {
+    "review_id": "R-00264",
+    "product_id": "VL-20035",
+    "stars": 5,
+    "date": "2026-03-25"
+  },
+  {
+    "review_id": "R-00265",
+    "product_id": "VL-20035",
+    "stars": 4,
+    "date": "2026-01-27"
+  },
+  {
+    "review_id": "R-00266",
+    "product_id": "VL-20035",
+    "stars": 3,
+    "date": "2026-02-17"
+  },
+  {
+    "review_id": "R-00267",
+    "product_id": "VL-20035",
+    "stars": 4,
+    "date": "2026-06-23"
+  },
+  {
+    "review_id": "R-00268",
+    "product_id": "VL-20035",
+    "stars": 4,
+    "date": "2026-04-12"
+  },
+  {
+    "review_id": "R-00269",
+    "product_id": "VL-20035",
+    "stars": 4,
+    "date": "2026-05-28"
+  },
+  {
+    "review_id": "R-00270",
+    "product_id": "VL-20035",
+    "stars": 3,
+    "date": "2026-02-09"
+  },
+  {
+    "review_id": "R-00271",
+    "product_id": "VL-20035",
+    "stars": 4,
+    "date": "2026-05-05"
+  },
+  {
+    "review_id": "R-00272",
+    "product_id": "VL-20036",
+    "stars": 5,
+    "date": "2026-09-03"
+  },
+  {
+    "review_id": "R-00273",
+    "product_id": "VL-20036",
+    "stars": 3,
+    "date": "2026-03-06"
+  },
+  {
+    "review_id": "R-00274",
+    "product_id": "VL-20036",
+    "stars": 4,
+    "date": "2026-06-27"
+  },
+  {
+    "review_id": "R-00275",
+    "product_id": "VL-20036",
+    "stars": 4,
+    "date": "2026-01-03"
+  },
+  {
+    "review_id": "R-00276",
+    "product_id": "VL-20036",
+    "stars": 4,
+    "date": "2026-01-21"
+  },
+  {
+    "review_id": "R-00277",
+    "product_id": "VL-20037",
+    "stars": 3,
+    "date": "2026-07-20"
+  },
+  {
+    "review_id": "R-00278",
+    "product_id": "VL-20037",
+    "stars": 3,
+    "date": "2026-01-16"
+  },
+  {
+    "review_id": "R-00279",
+    "product_id": "VL-20037",
+    "stars": 5,
+    "date": "2026-05-16"
+  },
+  {
+    "review_id": "R-00280",
+    "product_id": "VL-20038",
+    "stars": 2,
+    "date": "2026-05-15"
+  },
+  {
+    "review_id": "R-00281",
+    "product_id": "VL-20038",
+    "stars": 3,
+    "date": "2026-08-14"
+  },
+  {
+    "review_id": "R-00282",
+    "product_id": "VL-20038",
+    "stars": 3,
+    "date": "2026-08-15"
+  },
+  {
+    "review_id": "R-00283",
+    "product_id": "VL-20038",
+    "stars": 4,
+    "date": "2026-06-28"
+  },
+  {
+    "review_id": "R-00284",
+    "product_id": "VL-20038",
+    "stars": 4,
+    "date": "2026-06-24"
+  },
+  {
+    "review_id": "R-00285",
+    "product_id": "VL-20038",
+    "stars": 4,
+    "date": "2026-07-05"
+  },
+  {
+    "review_id": "R-00286",
+    "product_id": "VL-20038",
+    "stars": 3,
+    "date": "2026-06-17"
+  },
+  {
+    "review_id": "R-00287",
+    "product_id": "VL-20038",
+    "stars": 2,
+    "date": "2026-08-04"
+  },
+  {
+    "review_id": "R-00288",
+    "product_id": "VL-20038",
+    "stars": 3,
+    "date": "2026-05-15"
+  },
+  {
+    "review_id": "R-00289",
+    "product_id": "VL-20038",
+    "stars": 3,
+    "date": "2026-05-13"
+  },
+  {
+    "review_id": "R-00290",
+    "product_id": "VL-20038",
+    "stars": 4,
+    "date": "2026-07-08"
+  },
+  {
+    "review_id": "R-00291",
+    "product_id": "VL-20038",
+    "stars": 5,
+    "date": "2026-06-19"
+  },
+  {
+    "review_id": "R-00292",
+    "product_id": "VL-20039",
+    "stars": 3,
+    "date": "2026-03-16"
+  },
+  {
+    "review_id": "R-00293",
+    "product_id": "VL-20039",
+    "stars": 4,
+    "date": "2026-05-16"
+  },
+  {
+    "review_id": "R-00294",
+    "product_id": "VL-20039",
+    "stars": 3,
+    "date": "2026-01-03"
+  },
+  {
+    "review_id": "R-00295",
+    "product_id": "VL-20039",
+    "stars": 4,
+    "date": "2026-04-07"
+  },
+  {
+    "review_id": "R-00296",
+    "product_id": "VL-20040",
+    "stars": 3,
+    "date": "2026-01-10"
+  },
+  {
+    "review_id": "R-00297",
+    "product_id": "VL-20041",
+    "stars": 3,
+    "date": "2026-02-14"
+  },
+  {
+    "review_id": "R-00298",
+    "product_id": "VL-20041",
+    "stars": 3,
+    "date": "2026-03-09"
+  },
+  {
+    "review_id": "R-00299",
+    "product_id": "VL-20041",
+    "stars": 3,
+    "date": "2026-06-02"
+  },
+  {
+    "review_id": "R-00300",
+    "product_id": "VL-20041",
+    "stars": 2,
+    "date": "2026-07-02"
+  },
+  {
+    "review_id": "R-00301",
+    "product_id": "VL-20041",
+    "stars": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "review_id": "R-00302",
+    "product_id": "VL-20041",
+    "stars": 3,
+    "date": "2026-02-13"
+  },
+  {
+    "review_id": "R-00303",
+    "product_id": "VL-20041",
+    "stars": 2,
+    "date": "2026-05-27"
+  },
+  {
+    "review_id": "R-00304",
+    "product_id": "VL-20041",
+    "stars": 3,
+    "date": "2026-02-05"
+  },
+  {
+    "review_id": "R-00305",
+    "product_id": "VL-20041",
+    "stars": 4,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00306",
+    "product_id": "VL-20041",
+    "stars": 3,
+    "date": "2026-06-25"
+  },
+  {
+    "review_id": "R-00307",
+    "product_id": "VL-20041",
+    "stars": 4,
+    "date": "2026-07-17"
+  },
+  {
+    "review_id": "R-00308",
+    "product_id": "VL-20041",
+    "stars": 4,
+    "date": "2026-01-02"
+  },
+  {
+    "review_id": "R-00309",
+    "product_id": "VL-20041",
+    "stars": 5,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00310",
+    "product_id": "VL-20041",
+    "stars": 4,
+    "date": "2026-08-05"
+  },
+  {
+    "review_id": "R-00311",
+    "product_id": "VL-20041",
+    "stars": 2,
+    "date": "2026-06-20"
+  },
+  {
+    "review_id": "R-00312",
+    "product_id": "VL-20041",
+    "stars": 2,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00313",
+    "product_id": "VL-20041",
+    "stars": 2,
+    "date": "2026-05-19"
+  },
+  {
+    "review_id": "R-00314",
+    "product_id": "VL-20041",
+    "stars": 4,
+    "date": "2026-06-17"
+  },
+  {
+    "review_id": "R-00315",
+    "product_id": "VL-20041",
+    "stars": 4,
+    "date": "2026-05-16"
+  },
+  {
+    "review_id": "R-00316",
+    "product_id": "VL-20041",
+    "stars": 2,
+    "date": "2026-01-12"
+  },
+  {
+    "review_id": "R-00317",
+    "product_id": "VL-20042",
+    "stars": 5,
+    "date": "2026-01-20"
+  },
+  {
+    "review_id": "R-00318",
+    "product_id": "VL-20043",
+    "stars": 4,
+    "date": "2026-04-24"
+  },
+  {
+    "review_id": "R-00319",
+    "product_id": "VL-20043",
+    "stars": 5,
+    "date": "2026-09-21"
+  },
+  {
+    "review_id": "R-00320",
+    "product_id": "VL-20043",
+    "stars": 5,
+    "date": "2026-07-05"
+  },
+  {
+    "review_id": "R-00321",
+    "product_id": "VL-20043",
+    "stars": 5,
+    "date": "2026-02-07"
+  },
+  {
+    "review_id": "R-00322",
+    "product_id": "VL-20043",
+    "stars": 4,
+    "date": "2026-01-15"
+  },
+  {
+    "review_id": "R-00323",
+    "product_id": "VL-20043",
+    "stars": 4,
+    "date": "2026-04-14"
+  },
+  {
+    "review_id": "R-00324",
+    "product_id": "VL-20043",
+    "stars": 5,
+    "date": "2026-09-25"
+  },
+  {
+    "review_id": "R-00325",
+    "product_id": "VL-20043",
+    "stars": 4,
+    "date": "2026-01-23"
+  },
+  {
+    "review_id": "R-00326",
+    "product_id": "VL-20045",
+    "stars": 3,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00327",
+    "product_id": "VL-20045",
+    "stars": 2,
+    "date": "2026-08-18"
+  },
+  {
+    "review_id": "R-00328",
+    "product_id": "VL-20045",
+    "stars": 5,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00329",
+    "product_id": "VL-20046",
+    "stars": 3,
+    "date": "2026-05-20"
+  },
+  {
+    "review_id": "R-00330",
+    "product_id": "VL-20046",
+    "stars": 2,
+    "date": "2026-08-07"
+  },
+  {
+    "review_id": "R-00331",
+    "product_id": "VL-20046",
+    "stars": 4,
+    "date": "2026-05-08"
+  },
+  {
+    "review_id": "R-00332",
+    "product_id": "VL-20046",
+    "stars": 4,
+    "date": "2026-05-25"
+  },
+  {
+    "review_id": "R-00333",
+    "product_id": "VL-20046",
+    "stars": 4,
+    "date": "2026-08-11"
+  },
+  {
+    "review_id": "R-00334",
+    "product_id": "VL-20046",
+    "stars": 4,
+    "date": "2026-08-12"
+  },
+  {
+    "review_id": "R-00335",
+    "product_id": "VL-20046",
+    "stars": 2,
+    "date": "2026-05-10"
+  },
+  {
+    "review_id": "R-00336",
+    "product_id": "VL-20046",
+    "stars": 3,
+    "date": "2026-02-19"
+  },
+  {
+    "review_id": "R-00337",
+    "product_id": "VL-20047",
+    "stars": 4,
+    "date": "2026-06-25"
+  },
+  {
+    "review_id": "R-00338",
+    "product_id": "VL-20047",
+    "stars": 3,
+    "date": "2026-03-10"
+  },
+  {
+    "review_id": "R-00339",
+    "product_id": "VL-20047",
+    "stars": 5,
+    "date": "2026-02-12"
+  },
+  {
+    "review_id": "R-00340",
+    "product_id": "VL-20047",
+    "stars": 4,
+    "date": "2026-08-21"
+  },
+  {
+    "review_id": "R-00341",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-05-18"
+  },
+  {
+    "review_id": "R-00342",
+    "product_id": "VL-20048",
+    "stars": 5,
+    "date": "2026-05-05"
+  },
+  {
+    "review_id": "R-00343",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-04-08"
+  },
+  {
+    "review_id": "R-00344",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-01-22"
+  },
+  {
+    "review_id": "R-00345",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-04-02"
+  },
+  {
+    "review_id": "R-00346",
+    "product_id": "VL-20048",
+    "stars": 3,
+    "date": "2026-02-14"
+  },
+  {
+    "review_id": "R-00347",
+    "product_id": "VL-20048",
+    "stars": 3,
+    "date": "2026-03-01"
+  },
+  {
+    "review_id": "R-00348",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-09-06"
+  },
+  {
+    "review_id": "R-00349",
+    "product_id": "VL-20048",
+    "stars": 2,
+    "date": "2026-08-16"
+  },
+  {
+    "review_id": "R-00350",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-04-25"
+  },
+  {
+    "review_id": "R-00351",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-01-25"
+  },
+  {
+    "review_id": "R-00352",
+    "product_id": "VL-20048",
+    "stars": 3,
+    "date": "2026-02-21"
+  },
+  {
+    "review_id": "R-00353",
+    "product_id": "VL-20048",
+    "stars": 2,
+    "date": "2026-01-06"
+  },
+  {
+    "review_id": "R-00354",
+    "product_id": "VL-20048",
+    "stars": 3,
+    "date": "2026-07-27"
+  },
+  {
+    "review_id": "R-00355",
+    "product_id": "VL-20048",
+    "stars": 4,
+    "date": "2026-07-26"
+  },
+  {
+    "review_id": "R-00356",
+    "product_id": "VL-20048",
+    "stars": 5,
+    "date": "2026-08-06"
+  },
+  {
+    "review_id": "R-00357",
+    "product_id": "VL-20048",
+    "stars": 5,
+    "date": "2026-05-02"
+  },
+  {
+    "review_id": "R-00358",
+    "product_id": "VL-20048",
+    "stars": 2,
+    "date": "2026-01-10"
+  },
+  {
+    "review_id": "R-00359",
+    "product_id": "VL-20048",
+    "stars": 3,
+    "date": "2026-06-10"
+  },
+  {
+    "review_id": "R-00360",
+    "product_id": "VL-20048",
+    "stars": 3,
+    "date": "2026-08-21"
+  },
+  {
+    "review_id": "R-00361",
+    "product_id": "VL-20049",
+    "stars": 4,
+    "date": "2026-09-15"
+  },
+  {
+    "review_id": "R-00362",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-05-07"
+  },
+  {
+    "review_id": "R-00363",
+    "product_id": "VL-20049",
+    "stars": 4,
+    "date": "2026-08-21"
+  },
+  {
+    "review_id": "R-00364",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-05-23"
+  },
+  {
+    "review_id": "R-00365",
+    "product_id": "VL-20049",
+    "stars": 4,
+    "date": "2026-05-19"
+  },
+  {
+    "review_id": "R-00366",
+    "product_id": "VL-20049",
+    "stars": 5,
+    "date": "2026-04-06"
+  },
+  {
+    "review_id": "R-00367",
+    "product_id": "VL-20049",
+    "stars": 2,
+    "date": "2026-07-27"
+  },
+  {
+    "review_id": "R-00368",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "review_id": "R-00369",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-02-06"
+  },
+  {
+    "review_id": "R-00370",
+    "product_id": "VL-20049",
+    "stars": 4,
+    "date": "2026-03-16"
+  },
+  {
+    "review_id": "R-00371",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-05-13"
+  },
+  {
+    "review_id": "R-00372",
+    "product_id": "VL-20049",
+    "stars": 4,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00373",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-05-19"
+  },
+  {
+    "review_id": "R-00374",
+    "product_id": "VL-20049",
+    "stars": 1,
+    "date": "2026-01-09"
+  },
+  {
+    "review_id": "R-00375",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-01-22"
+  },
+  {
+    "review_id": "R-00376",
+    "product_id": "VL-20049",
+    "stars": 2,
+    "date": "2026-02-15"
+  },
+  {
+    "review_id": "R-00377",
+    "product_id": "VL-20049",
+    "stars": 3,
+    "date": "2026-09-23"
+  },
+  {
+    "review_id": "R-00378",
+    "product_id": "VL-20049",
+    "stars": 4,
+    "date": "2026-05-23"
+  },
+  {
+    "review_id": "R-00379",
+    "product_id": "VL-20049",
+    "stars": 5,
+    "date": "2026-05-12"
+  },
+  {
+    "review_id": "R-00380",
+    "product_id": "VL-20049",
+    "stars": 5,
+    "date": "2026-04-08"
+  },
+  {
+    "review_id": "R-00381",
+    "product_id": "VL-20050",
+    "stars": 5,
+    "date": "2026-06-14"
+  },
+  {
+    "review_id": "R-00382",
+    "product_id": "VL-20050",
+    "stars": 5,
+    "date": "2026-09-16"
+  },
+  {
+    "review_id": "R-00383",
+    "product_id": "VL-20050",
+    "stars": 4,
+    "date": "2026-04-25"
+  },
+  {
+    "review_id": "R-00384",
+    "product_id": "VL-20050",
+    "stars": 2,
+    "date": "2026-04-22"
+  },
+  {
+    "review_id": "R-00385",
+    "product_id": "VL-20051",
+    "stars": 3,
+    "date": "2026-06-03"
+  },
+  {
+    "review_id": "R-00386",
+    "product_id": "VL-20052",
+    "stars": 4,
+    "date": "2026-01-27"
+  },
+  {
+    "review_id": "R-00387",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-03-11"
+  },
+  {
+    "review_id": "R-00388",
+    "product_id": "VL-20053",
+    "stars": 5,
+    "date": "2026-09-15"
+  },
+  {
+    "review_id": "R-00389",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-08-03"
+  },
+  {
+    "review_id": "R-00390",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-09-15"
+  },
+  {
+    "review_id": "R-00391",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-09-14"
+  },
+  {
+    "review_id": "R-00392",
+    "product_id": "VL-20053",
+    "stars": 3,
+    "date": "2026-08-19"
+  },
+  {
+    "review_id": "R-00393",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00394",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-01-13"
+  },
+  {
+    "review_id": "R-00395",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-04-19"
+  },
+  {
+    "review_id": "R-00396",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-02-02"
+  },
+  {
+    "review_id": "R-00397",
+    "product_id": "VL-20053",
+    "stars": 2,
+    "date": "2026-09-02"
+  },
+  {
+    "review_id": "R-00398",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-02-16"
+  },
+  {
+    "review_id": "R-00399",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-03-25"
+  },
+  {
+    "review_id": "R-00400",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-07-12"
+  },
+  {
+    "review_id": "R-00401",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-07-13"
+  },
+  {
+    "review_id": "R-00402",
+    "product_id": "VL-20053",
+    "stars": 3,
+    "date": "2026-02-22"
+  },
+  {
+    "review_id": "R-00403",
+    "product_id": "VL-20053",
+    "stars": 5,
+    "date": "2026-03-21"
+  },
+  {
+    "review_id": "R-00404",
+    "product_id": "VL-20053",
+    "stars": 3,
+    "date": "2026-06-04"
+  },
+  {
+    "review_id": "R-00405",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-09-05"
+  },
+  {
+    "review_id": "R-00406",
+    "product_id": "VL-20053",
+    "stars": 5,
+    "date": "2026-04-27"
+  },
+  {
+    "review_id": "R-00407",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-05-15"
+  },
+  {
+    "review_id": "R-00408",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-09-14"
+  },
+  {
+    "review_id": "R-00409",
+    "product_id": "VL-20053",
+    "stars": 2,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00410",
+    "product_id": "VL-20053",
+    "stars": 3,
+    "date": "2026-06-05"
+  },
+  {
+    "review_id": "R-00411",
+    "product_id": "VL-20053",
+    "stars": 3,
+    "date": "2026-02-02"
+  },
+  {
+    "review_id": "R-00412",
+    "product_id": "VL-20053",
+    "stars": 5,
+    "date": "2026-07-20"
+  },
+  {
+    "review_id": "R-00413",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-01-08"
+  },
+  {
+    "review_id": "R-00414",
+    "product_id": "VL-20053",
+    "stars": 2,
+    "date": "2026-04-03"
+  },
+  {
+    "review_id": "R-00415",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-01-08"
+  },
+  {
+    "review_id": "R-00416",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-01-13"
+  },
+  {
+    "review_id": "R-00417",
+    "product_id": "VL-20053",
+    "stars": 2,
+    "date": "2026-01-05"
+  },
+  {
+    "review_id": "R-00418",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-09-10"
+  },
+  {
+    "review_id": "R-00419",
+    "product_id": "VL-20053",
+    "stars": 4,
+    "date": "2026-06-19"
+  },
+  {
+    "review_id": "R-00420",
+    "product_id": "VL-20053",
+    "stars": 5,
+    "date": "2026-06-08"
+  },
+  {
+    "review_id": "R-00421",
+    "product_id": "VL-20053",
+    "stars": 3,
+    "date": "2026-09-08"
+  },
+  {
+    "review_id": "R-00422",
+    "product_id": "VL-20054",
+    "stars": 4,
+    "date": "2026-01-18"
+  },
+  {
+    "review_id": "R-00423",
+    "product_id": "VL-20054",
+    "stars": 5,
+    "date": "2026-03-21"
+  },
+  {
+    "review_id": "R-00424",
+    "product_id": "VL-20054",
+    "stars": 3,
+    "date": "2026-07-18"
+  },
+  {
+    "review_id": "R-00425",
+    "product_id": "VL-20055",
+    "stars": 5,
+    "date": "2026-09-11"
+  },
+  {
+    "review_id": "R-00426",
+    "product_id": "VL-20055",
+    "stars": 3,
+    "date": "2026-07-14"
+  },
+  {
+    "review_id": "R-00427",
+    "product_id": "VL-20055",
+    "stars": 4,
+    "date": "2026-09-16"
+  },
+  {
+    "review_id": "R-00428",
+    "product_id": "VL-20056",
+    "stars": 5,
+    "date": "2026-05-28"
+  },
+  {
+    "review_id": "R-00429",
+    "product_id": "VL-20056",
+    "stars": 3,
+    "date": "2026-01-18"
+  },
+  {
+    "review_id": "R-00430",
+    "product_id": "VL-20057",
+    "stars": 2,
+    "date": "2026-09-17"
+  },
+  {
+    "review_id": "R-00431",
+    "product_id": "VL-20057",
+    "stars": 4,
+    "date": "2026-04-11"
+  },
+  {
+    "review_id": "R-00432",
+    "product_id": "VL-20057",
+    "stars": 4,
+    "date": "2026-02-15"
+  },
+  {
+    "review_id": "R-00433",
+    "product_id": "VL-20057",
+    "stars": 3,
+    "date": "2026-04-02"
+  },
+  {
+    "review_id": "R-00434",
+    "product_id": "VL-20057",
+    "stars": 3,
+    "date": "2026-05-13"
+  },
+  {
+    "review_id": "R-00435",
+    "product_id": "VL-20057",
+    "stars": 3,
+    "date": "2026-02-07"
+  },
+  {
+    "review_id": "R-00436",
+    "product_id": "VL-20057",
+    "stars": 2,
+    "date": "2026-09-07"
+  },
+  {
+    "review_id": "R-00437",
+    "product_id": "VL-20057",
+    "stars": 1,
+    "date": "2026-06-10"
+  },
+  {
+    "review_id": "R-00438",
+    "product_id": "VL-20057",
+    "stars": 3,
+    "date": "2026-01-07"
+  },
+  {
+    "review_id": "R-00439",
+    "product_id": "VL-20057",
+    "stars": 5,
+    "date": "2026-02-24"
+  },
+  {
+    "review_id": "R-00440",
+    "product_id": "VL-20057",
+    "stars": 2,
+    "date": "2026-08-08"
+  },
+  {
+    "review_id": "R-00441",
+    "product_id": "VL-20057",
+    "stars": 3,
+    "date": "2026-07-08"
+  },
+  {
+    "review_id": "R-00442",
+    "product_id": "VL-20058",
+    "stars": 2,
+    "date": "2026-07-15"
+  },
+  {
+    "review_id": "R-00443",
+    "product_id": "VL-20058",
+    "stars": 2,
+    "date": "2026-05-12"
+  },
+  {
+    "review_id": "R-00444",
+    "product_id": "VL-20058",
+    "stars": 3,
+    "date": "2026-09-16"
+  },
+  {
+    "review_id": "R-00445",
+    "product_id": "VL-20058",
+    "stars": 2,
+    "date": "2026-08-25"
+  },
+  {
+    "review_id": "R-00446",
+    "product_id": "VL-20058",
+    "stars": 4,
+    "date": "2026-06-07"
+  },
+  {
+    "review_id": "R-00447",
+    "product_id": "VL-20058",
+    "stars": 3,
+    "date": "2026-04-24"
+  },
+  {
+    "review_id": "R-00448",
+    "product_id": "VL-20060",
+    "stars": 5,
+    "date": "2026-07-10"
+  },
+  {
+    "review_id": "R-00449",
+    "product_id": "VL-20060",
+    "stars": 5,
+    "date": "2026-07-19"
+  },
+  {
+    "review_id": "R-00450",
+    "product_id": "VL-20060",
+    "stars": 5,
+    "date": "2026-04-16"
+  },
+  {
+    "review_id": "R-00451",
+    "product_id": "VL-20060",
+    "stars": 2,
+    "date": "2026-06-09"
+  },
+  {
+    "review_id": "R-00452",
+    "product_id": "VL-20060",
+    "stars": 4,
+    "date": "2026-08-24"
+  },
+  {
+    "review_id": "R-00453",
+    "product_id": "VL-20061",
+    "stars": 2,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00454",
+    "product_id": "VL-20061",
+    "stars": 4,
+    "date": "2026-03-24"
+  },
+  {
+    "review_id": "R-00455",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-09-21"
+  },
+  {
+    "review_id": "R-00456",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-01-17"
+  },
+  {
+    "review_id": "R-00457",
+    "product_id": "VL-20061",
+    "stars": 5,
+    "date": "2026-01-25"
+  },
+  {
+    "review_id": "R-00458",
+    "product_id": "VL-20061",
+    "stars": 4,
+    "date": "2026-01-14"
+  },
+  {
+    "review_id": "R-00459",
+    "product_id": "VL-20061",
+    "stars": 4,
+    "date": "2026-02-23"
+  },
+  {
+    "review_id": "R-00460",
+    "product_id": "VL-20061",
+    "stars": 4,
+    "date": "2026-03-01"
+  },
+  {
+    "review_id": "R-00461",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-01-20"
+  },
+  {
+    "review_id": "R-00462",
+    "product_id": "VL-20061",
+    "stars": 4,
+    "date": "2026-08-22"
+  },
+  {
+    "review_id": "R-00463",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-09-14"
+  },
+  {
+    "review_id": "R-00464",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-01-01"
+  },
+  {
+    "review_id": "R-00465",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-05-01"
+  },
+  {
+    "review_id": "R-00466",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-09-27"
+  },
+  {
+    "review_id": "R-00467",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-03-04"
+  },
+  {
+    "review_id": "R-00468",
+    "product_id": "VL-20061",
+    "stars": 2,
+    "date": "2026-02-17"
+  },
+  {
+    "review_id": "R-00469",
+    "product_id": "VL-20061",
+    "stars": 4,
+    "date": "2026-09-09"
+  },
+  {
+    "review_id": "R-00470",
+    "product_id": "VL-20061",
+    "stars": 4,
+    "date": "2026-06-09"
+  },
+  {
+    "review_id": "R-00471",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-07-15"
+  },
+  {
+    "review_id": "R-00472",
+    "product_id": "VL-20061",
+    "stars": 3,
+    "date": "2026-04-23"
+  },
+  {
+    "review_id": "R-00473",
+    "product_id": "VL-20062",
+    "stars": 4,
+    "date": "2026-01-03"
+  },
+  {
+    "review_id": "R-00474",
+    "product_id": "VL-20062",
+    "stars": 3,
+    "date": "2026-07-13"
+  },
+  {
+    "review_id": "R-00475",
+    "product_id": "VL-20062",
+    "stars": 3,
+    "date": "2026-01-23"
+  },
+  {
+    "review_id": "R-00476",
+    "product_id": "VL-20062",
+    "stars": 4,
+    "date": "2026-03-03"
+  },
+  {
+    "review_id": "R-00477",
+    "product_id": "VL-20062",
+    "stars": 3,
+    "date": "2026-06-19"
+  },
+  {
+    "review_id": "R-00478",
+    "product_id": "VL-20062",
+    "stars": 4,
+    "date": "2026-02-17"
+  },
+  {
+    "review_id": "R-00479",
+    "product_id": "VL-20062",
+    "stars": 4,
+    "date": "2026-08-09"
+  },
+  {
+    "review_id": "R-00480",
+    "product_id": "VL-20062",
+    "stars": 3,
+    "date": "2026-01-03"
+  },
+  {
+    "review_id": "R-00481",
+    "product_id": "VL-20063",
+    "stars": 4,
+    "date": "2026-01-06"
+  },
+  {
+    "review_id": "R-00482",
+    "product_id": "VL-20063",
+    "stars": 3,
+    "date": "2026-06-01"
+  },
+  {
+    "review_id": "R-00483",
+    "product_id": "VL-20063",
+    "stars": 5,
+    "date": "2026-07-03"
+  },
+  {
+    "review_id": "R-00484",
+    "product_id": "VL-20063",
+    "stars": 3,
+    "date": "2026-05-06"
+  },
+  {
+    "review_id": "R-00485",
+    "product_id": "VL-20063",
+    "stars": 2,
+    "date": "2026-07-22"
+  },
+  {
+    "review_id": "R-00486",
+    "product_id": "VL-20063",
+    "stars": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "review_id": "R-00487",
+    "product_id": "VL-20064",
+    "stars": 4,
+    "date": "2026-02-17"
+  },
+  {
+    "review_id": "R-00488",
+    "product_id": "VL-20064",
+    "stars": 2,
+    "date": "2026-06-02"
+  },
+  {
+    "review_id": "R-00489",
+    "product_id": "VL-20064",
+    "stars": 4,
+    "date": "2026-02-11"
+  },
+  {
+    "review_id": "R-00490",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-07-25"
+  },
+  {
+    "review_id": "R-00491",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-08-16"
+  },
+  {
+    "review_id": "R-00492",
+    "product_id": "VL-20065",
+    "stars": 5,
+    "date": "2026-04-12"
+  },
+  {
+    "review_id": "R-00493",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-03-22"
+  },
+  {
+    "review_id": "R-00494",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-07-03"
+  },
+  {
+    "review_id": "R-00495",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-04-23"
+  },
+  {
+    "review_id": "R-00496",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-02-03"
+  },
+  {
+    "review_id": "R-00497",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-03-24"
+  },
+  {
+    "review_id": "R-00498",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-07-11"
+  },
+  {
+    "review_id": "R-00499",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-05-15"
+  },
+  {
+    "review_id": "R-00500",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-06-25"
+  },
+  {
+    "review_id": "R-00501",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-03-14"
+  },
+  {
+    "review_id": "R-00502",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-08-18"
+  },
+  {
+    "review_id": "R-00503",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-01-03"
+  },
+  {
+    "review_id": "R-00504",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00505",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-06-28"
+  },
+  {
+    "review_id": "R-00506",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-07-01"
+  },
+  {
+    "review_id": "R-00507",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-02-24"
+  },
+  {
+    "review_id": "R-00508",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-09-08"
+  },
+  {
+    "review_id": "R-00509",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00510",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-03-09"
+  },
+  {
+    "review_id": "R-00511",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-02-06"
+  },
+  {
+    "review_id": "R-00512",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-07-09"
+  },
+  {
+    "review_id": "R-00513",
+    "product_id": "VL-20065",
+    "stars": 2,
+    "date": "2026-02-12"
+  },
+  {
+    "review_id": "R-00514",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-05-08"
+  },
+  {
+    "review_id": "R-00515",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00516",
+    "product_id": "VL-20065",
+    "stars": 2,
+    "date": "2026-02-05"
+  },
+  {
+    "review_id": "R-00517",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-06-27"
+  },
+  {
+    "review_id": "R-00518",
+    "product_id": "VL-20065",
+    "stars": 5,
+    "date": "2026-07-26"
+  },
+  {
+    "review_id": "R-00519",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-07-27"
+  },
+  {
+    "review_id": "R-00520",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-03-10"
+  },
+  {
+    "review_id": "R-00521",
+    "product_id": "VL-20065",
+    "stars": 2,
+    "date": "2026-04-16"
+  },
+  {
+    "review_id": "R-00522",
+    "product_id": "VL-20065",
+    "stars": 5,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00523",
+    "product_id": "VL-20065",
+    "stars": 5,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00524",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-08-19"
+  },
+  {
+    "review_id": "R-00525",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-05-27"
+  },
+  {
+    "review_id": "R-00526",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-07-12"
+  },
+  {
+    "review_id": "R-00527",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-09-06"
+  },
+  {
+    "review_id": "R-00528",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-09-01"
+  },
+  {
+    "review_id": "R-00529",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00530",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-05-27"
+  },
+  {
+    "review_id": "R-00531",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-07-22"
+  },
+  {
+    "review_id": "R-00532",
+    "product_id": "VL-20065",
+    "stars": 2,
+    "date": "2026-08-05"
+  },
+  {
+    "review_id": "R-00533",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-03-23"
+  },
+  {
+    "review_id": "R-00534",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-07-26"
+  },
+  {
+    "review_id": "R-00535",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-08-19"
+  },
+  {
+    "review_id": "R-00536",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-07-18"
+  },
+  {
+    "review_id": "R-00537",
+    "product_id": "VL-20065",
+    "stars": 1,
+    "date": "2026-07-18"
+  },
+  {
+    "review_id": "R-00538",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-01-26"
+  },
+  {
+    "review_id": "R-00539",
+    "product_id": "VL-20065",
+    "stars": 5,
+    "date": "2026-09-20"
+  },
+  {
+    "review_id": "R-00540",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-02-04"
+  },
+  {
+    "review_id": "R-00541",
+    "product_id": "VL-20065",
+    "stars": 4,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00542",
+    "product_id": "VL-20065",
+    "stars": 2,
+    "date": "2026-01-19"
+  },
+  {
+    "review_id": "R-00543",
+    "product_id": "VL-20065",
+    "stars": 5,
+    "date": "2026-07-25"
+  },
+  {
+    "review_id": "R-00544",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-06-26"
+  },
+  {
+    "review_id": "R-00545",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-05-08"
+  },
+  {
+    "review_id": "R-00546",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-09-24"
+  },
+  {
+    "review_id": "R-00547",
+    "product_id": "VL-20065",
+    "stars": 2,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00548",
+    "product_id": "VL-20065",
+    "stars": 3,
+    "date": "2026-06-13"
+  },
+  {
+    "review_id": "R-00549",
+    "product_id": "VL-20065",
+    "stars": 2,
+    "date": "2026-09-05"
+  },
+  {
+    "review_id": "R-00550",
+    "product_id": "VL-20066",
+    "stars": 4,
+    "date": "2026-08-04"
+  },
+  {
+    "review_id": "R-00551",
+    "product_id": "VL-20067",
+    "stars": 5,
+    "date": "2026-03-12"
+  },
+  {
+    "review_id": "R-00552",
+    "product_id": "VL-20067",
+    "stars": 5,
+    "date": "2026-05-11"
+  },
+  {
+    "review_id": "R-00553",
+    "product_id": "VL-20068",
+    "stars": 3,
+    "date": "2026-02-15"
+  },
+  {
+    "review_id": "R-00554",
+    "product_id": "VL-20068",
+    "stars": 4,
+    "date": "2026-08-11"
+  },
+  {
+    "review_id": "R-00555",
+    "product_id": "VL-20071",
+    "stars": 5,
+    "date": "2026-03-24"
+  },
+  {
+    "review_id": "R-00556",
+    "product_id": "VL-20072",
+    "stars": 2,
+    "date": "2026-09-06"
+  },
+  {
+    "review_id": "R-00557",
+    "product_id": "VL-20072",
+    "stars": 3,
+    "date": "2026-08-08"
+  },
+  {
+    "review_id": "R-00558",
+    "product_id": "VL-20072",
+    "stars": 4,
+    "date": "2026-07-21"
+  },
+  {
+    "review_id": "R-00559",
+    "product_id": "VL-20073",
+    "stars": 4,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00560",
+    "product_id": "VL-20073",
+    "stars": 3,
+    "date": "2026-07-13"
+  },
+  {
+    "review_id": "R-00561",
+    "product_id": "VL-20073",
+    "stars": 5,
+    "date": "2026-05-25"
+  },
+  {
+    "review_id": "R-00562",
+    "product_id": "VL-20073",
+    "stars": 4,
+    "date": "2026-02-19"
+  },
+  {
+    "review_id": "R-00563",
+    "product_id": "VL-20073",
+    "stars": 5,
+    "date": "2026-03-12"
+  },
+  {
+    "review_id": "R-00564",
+    "product_id": "VL-20073",
+    "stars": 5,
+    "date": "2026-06-07"
+  },
+  {
+    "review_id": "R-00565",
+    "product_id": "VL-20073",
+    "stars": 3,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00566",
+    "product_id": "VL-20073",
+    "stars": 4,
+    "date": "2026-06-20"
+  },
+  {
+    "review_id": "R-00567",
+    "product_id": "VL-20074",
+    "stars": 3,
+    "date": "2026-08-20"
+  },
+  {
+    "review_id": "R-00568",
+    "product_id": "VL-20074",
+    "stars": 4,
+    "date": "2026-03-27"
+  },
+  {
+    "review_id": "R-00569",
+    "product_id": "VL-20074",
+    "stars": 3,
+    "date": "2026-02-22"
+  },
+  {
+    "review_id": "R-00570",
+    "product_id": "VL-20074",
+    "stars": 3,
+    "date": "2026-03-11"
+  },
+  {
+    "review_id": "R-00571",
+    "product_id": "VL-20076",
+    "stars": 3,
+    "date": "2026-07-14"
+  },
+  {
+    "review_id": "R-00572",
+    "product_id": "VL-20076",
+    "stars": 4,
+    "date": "2026-03-19"
+  },
+  {
+    "review_id": "R-00573",
+    "product_id": "VL-20076",
+    "stars": 3,
+    "date": "2026-09-23"
+  },
+  {
+    "review_id": "R-00574",
+    "product_id": "VL-20077",
+    "stars": 5,
+    "date": "2026-09-06"
+  },
+  {
+    "review_id": "R-00575",
+    "product_id": "VL-20077",
+    "stars": 4,
+    "date": "2026-06-27"
+  },
+  {
+    "review_id": "R-00576",
+    "product_id": "VL-20078",
+    "stars": 4,
+    "date": "2026-06-01"
+  },
+  {
+    "review_id": "R-00577",
+    "product_id": "VL-20079",
+    "stars": 5,
+    "date": "2026-09-21"
+  },
+  {
+    "review_id": "R-00578",
+    "product_id": "VL-20079",
+    "stars": 2,
+    "date": "2026-08-14"
+  },
+  {
+    "review_id": "R-00579",
+    "product_id": "VL-20080",
+    "stars": 4,
+    "date": "2026-03-03"
+  },
+  {
+    "review_id": "R-00580",
+    "product_id": "VL-20080",
+    "stars": 3,
+    "date": "2026-01-26"
+  },
+  {
+    "review_id": "R-00581",
+    "product_id": "VL-20080",
+    "stars": 4,
+    "date": "2026-05-08"
+  },
+  {
+    "review_id": "R-00582",
+    "product_id": "VL-20080",
+    "stars": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "review_id": "R-00583",
+    "product_id": "VL-20082",
+    "stars": 5,
+    "date": "2026-09-04"
+  },
+  {
+    "review_id": "R-00584",
+    "product_id": "VL-20082",
+    "stars": 3,
+    "date": "2026-02-09"
+  },
+  {
+    "review_id": "R-00585",
+    "product_id": "VL-20082",
+    "stars": 5,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00586",
+    "product_id": "VL-20082",
+    "stars": 3,
+    "date": "2026-01-25"
+  },
+  {
+    "review_id": "R-00587",
+    "product_id": "VL-20082",
+    "stars": 4,
+    "date": "2026-07-04"
+  },
+  {
+    "review_id": "R-00588",
+    "product_id": "VL-20082",
+    "stars": 3,
+    "date": "2026-04-10"
+  },
+  {
+    "review_id": "R-00589",
+    "product_id": "VL-20082",
+    "stars": 5,
+    "date": "2026-05-12"
+  },
+  {
+    "review_id": "R-00590",
+    "product_id": "VL-20082",
+    "stars": 4,
+    "date": "2026-02-15"
+  },
+  {
+    "review_id": "R-00591",
+    "product_id": "VL-20083",
+    "stars": 3,
+    "date": "2026-06-28"
+  },
+  {
+    "review_id": "R-00592",
+    "product_id": "VL-20083",
+    "stars": 3,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00593",
+    "product_id": "VL-20084",
+    "stars": 4,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00594",
+    "product_id": "VL-20084",
+    "stars": 2,
+    "date": "2026-05-20"
+  },
+  {
+    "review_id": "R-00595",
+    "product_id": "VL-20084",
+    "stars": 3,
+    "date": "2026-05-10"
+  },
+  {
+    "review_id": "R-00596",
+    "product_id": "VL-20084",
+    "stars": 3,
+    "date": "2026-05-28"
+  },
+  {
+    "review_id": "R-00597",
+    "product_id": "VL-20085",
+    "stars": 4,
+    "date": "2026-07-02"
+  },
+  {
+    "review_id": "R-00598",
+    "product_id": "VL-20085",
+    "stars": 3,
+    "date": "2026-05-28"
+  },
+  {
+    "review_id": "R-00599",
+    "product_id": "VL-20085",
+    "stars": 3,
+    "date": "2026-03-08"
+  },
+  {
+    "review_id": "R-00600",
+    "product_id": "VL-20085",
+    "stars": 2,
+    "date": "2026-03-23"
+  },
+  {
+    "review_id": "R-00601",
+    "product_id": "VL-20085",
+    "stars": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "review_id": "R-00602",
+    "product_id": "VL-20085",
+    "stars": 4,
+    "date": "2026-03-19"
+  },
+  {
+    "review_id": "R-00603",
+    "product_id": "VL-20085",
+    "stars": 3,
+    "date": "2026-07-15"
+  },
+  {
+    "review_id": "R-00604",
+    "product_id": "VL-20085",
+    "stars": 3,
+    "date": "2026-02-21"
+  },
+  {
+    "review_id": "R-00605",
+    "product_id": "VL-20086",
+    "stars": 3,
+    "date": "2026-06-15"
+  },
+  {
+    "review_id": "R-00606",
+    "product_id": "VL-20087",
+    "stars": 4,
+    "date": "2026-01-28"
+  },
+  {
+    "review_id": "R-00607",
+    "product_id": "VL-20087",
+    "stars": 4,
+    "date": "2026-08-21"
+  },
+  {
+    "review_id": "R-00608",
+    "product_id": "VL-20087",
+    "stars": 2,
+    "date": "2026-06-28"
+  },
+  {
+    "review_id": "R-00609",
+    "product_id": "VL-20087",
+    "stars": 4,
+    "date": "2026-04-14"
+  },
+  {
+    "review_id": "R-00610",
+    "product_id": "VL-20087",
+    "stars": 4,
+    "date": "2026-04-16"
+  },
+  {
+    "review_id": "R-00611",
+    "product_id": "VL-20087",
+    "stars": 3,
+    "date": "2026-06-18"
+  },
+  {
+    "review_id": "R-00612",
+    "product_id": "VL-20087",
+    "stars": 5,
+    "date": "2026-03-19"
+  },
+  {
+    "review_id": "R-00613",
+    "product_id": "VL-20087",
+    "stars": 4,
+    "date": "2026-01-02"
+  },
+  {
+    "review_id": "R-00614",
+    "product_id": "VL-20089",
+    "stars": 2,
+    "date": "2026-01-04"
+  },
+  {
+    "review_id": "R-00615",
+    "product_id": "VL-20089",
+    "stars": 4,
+    "date": "2026-08-01"
+  },
+  {
+    "review_id": "R-00616",
+    "product_id": "VL-20089",
+    "stars": 3,
+    "date": "2026-07-07"
+  },
+  {
+    "review_id": "R-00617",
+    "product_id": "VL-20089",
+    "stars": 5,
+    "date": "2026-05-06"
+  },
+  {
+    "review_id": "R-00618",
+    "product_id": "VL-20090",
+    "stars": 4,
+    "date": "2026-02-21"
+  },
+  {
+    "review_id": "R-00619",
+    "product_id": "VL-20090",
+    "stars": 4,
+    "date": "2026-03-02"
+  },
+  {
+    "review_id": "R-00620",
+    "product_id": "VL-20090",
+    "stars": 4,
+    "date": "2026-07-21"
+  },
+  {
+    "review_id": "R-00621",
+    "product_id": "VL-20091",
+    "stars": 3,
+    "date": "2026-02-01"
+  },
+  {
+    "review_id": "R-00622",
+    "product_id": "VL-20091",
+    "stars": 4,
+    "date": "2026-04-16"
+  },
+  {
+    "review_id": "R-00623",
+    "product_id": "VL-20091",
+    "stars": 5,
+    "date": "2026-09-22"
+  },
+  {
+    "review_id": "R-00624",
+    "product_id": "VL-20091",
+    "stars": 4,
+    "date": "2026-08-01"
+  },
+  {
+    "review_id": "R-00625",
+    "product_id": "VL-20093",
+    "stars": 5,
+    "date": "2026-03-16"
+  },
+  {
+    "review_id": "R-00626",
+    "product_id": "VL-20095",
+    "stars": 4,
+    "date": "2026-02-04"
+  },
+  {
+    "review_id": "R-00627",
+    "product_id": "VL-20095",
+    "stars": 3,
+    "date": "2026-03-13"
+  },
+  {
+    "review_id": "R-00628",
+    "product_id": "VL-20095",
+    "stars": 5,
+    "date": "2026-03-21"
+  },
+  {
+    "review_id": "R-00629",
+    "product_id": "VL-20095",
+    "stars": 5,
+    "date": "2026-09-19"
+  },
+  {
+    "review_id": "R-00630",
+    "product_id": "VL-20095",
+    "stars": 4,
+    "date": "2026-01-20"
+  },
+  {
+    "review_id": "R-00631",
+    "product_id": "VL-20095",
+    "stars": 4,
+    "date": "2026-04-21"
+  },
+  {
+    "review_id": "R-00632",
+    "product_id": "VL-20095",
+    "stars": 3,
+    "date": "2026-03-14"
+  },
+  {
+    "review_id": "R-00633",
+    "product_id": "VL-20095",
+    "stars": 3,
+    "date": "2026-04-03"
+  },
+  {
+    "review_id": "R-00634",
+    "product_id": "VL-20096",
+    "stars": 3,
+    "date": "2026-02-19"
+  },
+  {
+    "review_id": "R-00635",
+    "product_id": "VL-20096",
+    "stars": 3,
+    "date": "2026-07-11"
+  },
+  {
+    "review_id": "R-00636",
+    "product_id": "VL-20096",
+    "stars": 2,
+    "date": "2026-03-08"
+  },
+  {
+    "review_id": "R-00637",
+    "product_id": "VL-20097",
+    "stars": 4,
+    "date": "2026-05-25"
+  },
+  {
+    "review_id": "R-00638",
+    "product_id": "VL-20098",
+    "stars": 4,
+    "date": "2026-05-07"
+  },
+  {
+    "review_id": "R-00639",
+    "product_id": "VL-20099",
+    "stars": 4,
+    "date": "2026-01-26"
+  },
+  {
+    "review_id": "R-00640",
+    "product_id": "VL-20099",
+    "stars": 5,
+    "date": "2026-04-16"
+  },
+  {
+    "review_id": "R-00641",
+    "product_id": "VL-20099",
+    "stars": 3,
+    "date": "2026-02-17"
+  },
+  {
+    "review_id": "R-00642",
+    "product_id": "VL-20099",
+    "stars": 4,
+    "date": "2026-01-12"
+  },
+  {
+    "review_id": "R-00643",
+    "product_id": "VL-20099",
+    "stars": 4,
+    "date": "2026-07-12"
+  },
+  {
+    "review_id": "R-00644",
+    "product_id": "VL-20100",
+    "stars": 4,
+    "date": "2026-08-25"
+  },
+  {
+    "review_id": "R-00645",
+    "product_id": "VL-20100",
+    "stars": 5,
+    "date": "2026-01-09"
+  },
+  {
+    "review_id": "R-00646",
+    "product_id": "VL-20101",
+    "stars": 4,
+    "date": "2026-07-17"
+  },
+  {
+    "review_id": "R-00647",
+    "product_id": "VL-20102",
+    "stars": 3,
+    "date": "2026-07-03"
+  },
+  {
+    "review_id": "R-00648",
+    "product_id": "VL-20102",
+    "stars": 4,
+    "date": "2026-09-18"
+  },
+  {
+    "review_id": "R-00649",
+    "product_id": "VL-20102",
+    "stars": 3,
+    "date": "2026-05-03"
+  },
+  {
+    "review_id": "R-00650",
+    "product_id": "VL-20102",
+    "stars": 3,
+    "date": "2026-09-07"
+  },
+  {
+    "review_id": "R-00651",
+    "product_id": "VL-20102",
+    "stars": 4,
+    "date": "2026-06-13"
+  },
+  {
+    "review_id": "R-00652",
+    "product_id": "VL-20102",
+    "stars": 4,
+    "date": "2026-02-10"
+  },
+  {
+    "review_id": "R-00653",
+    "product_id": "VL-20102",
+    "stars": 3,
+    "date": "2026-04-02"
+  },
+  {
+    "review_id": "R-00654",
+    "product_id": "VL-20102",
+    "stars": 2,
+    "date": "2026-04-03"
+  },
+  {
+    "review_id": "R-00655",
+    "product_id": "VL-20103",
+    "stars": 3,
+    "date": "2026-05-22"
+  },
+  {
+    "review_id": "R-00656",
+    "product_id": "VL-20104",
+    "stars": 4,
+    "date": "2026-02-01"
+  },
+  {
+    "review_id": "R-00657",
+    "product_id": "VL-20104",
+    "stars": 3,
+    "date": "2026-03-16"
+  },
+  {
+    "review_id": "R-00658",
+    "product_id": "VL-20104",
+    "stars": 2,
+    "date": "2026-06-17"
+  },
+  {
+    "review_id": "R-00659",
+    "product_id": "VL-20105",
+    "stars": 4,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00660",
+    "product_id": "VL-20105",
+    "stars": 4,
+    "date": "2026-02-25"
+  },
+  {
+    "review_id": "R-00661",
+    "product_id": "VL-20105",
+    "stars": 4,
+    "date": "2026-07-09"
+  },
+  {
+    "review_id": "R-00662",
+    "product_id": "VL-20105",
+    "stars": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "review_id": "R-00663",
+    "product_id": "VL-20105",
+    "stars": 3,
+    "date": "2026-02-16"
+  },
+  {
+    "review_id": "R-00664",
+    "product_id": "VL-20105",
+    "stars": 5,
+    "date": "2026-08-17"
+  },
+  {
+    "review_id": "R-00665",
+    "product_id": "VL-20106",
+    "stars": 4,
+    "date": "2026-03-09"
+  },
+  {
+    "review_id": "R-00666",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-02-19"
+  },
+  {
+    "review_id": "R-00667",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-09-01"
+  },
+  {
+    "review_id": "R-00668",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-01-28"
+  },
+  {
+    "review_id": "R-00669",
+    "product_id": "VL-20106",
+    "stars": 4,
+    "date": "2026-08-12"
+  },
+  {
+    "review_id": "R-00670",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-07-05"
+  },
+  {
+    "review_id": "R-00671",
+    "product_id": "VL-20106",
+    "stars": 4,
+    "date": "2026-01-18"
+  },
+  {
+    "review_id": "R-00672",
+    "product_id": "VL-20106",
+    "stars": 5,
+    "date": "2026-07-08"
+  },
+  {
+    "review_id": "R-00673",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-06-09"
+  },
+  {
+    "review_id": "R-00674",
+    "product_id": "VL-20106",
+    "stars": 4,
+    "date": "2026-02-19"
+  },
+  {
+    "review_id": "R-00675",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-01-06"
+  },
+  {
+    "review_id": "R-00676",
+    "product_id": "VL-20106",
+    "stars": 4,
+    "date": "2026-04-26"
+  },
+  {
+    "review_id": "R-00677",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-07-03"
+  },
+  {
+    "review_id": "R-00678",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "review_id": "R-00679",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-06-03"
+  },
+  {
+    "review_id": "R-00680",
+    "product_id": "VL-20106",
+    "stars": 5,
+    "date": "2026-09-15"
+  },
+  {
+    "review_id": "R-00681",
+    "product_id": "VL-20106",
+    "stars": 4,
+    "date": "2026-05-24"
+  },
+  {
+    "review_id": "R-00682",
+    "product_id": "VL-20106",
+    "stars": 3,
+    "date": "2026-04-15"
+  },
+  {
+    "review_id": "R-00683",
+    "product_id": "VL-20106",
+    "stars": 2,
+    "date": "2026-04-24"
+  },
+  {
+    "review_id": "R-00684",
+    "product_id": "VL-20106",
+    "stars": 5,
+    "date": "2026-09-25"
+  },
+  {
+    "review_id": "R-00685",
+    "product_id": "VL-20107",
+    "stars": 5,
+    "date": "2026-04-18"
+  },
+  {
+    "review_id": "R-00686",
+    "product_id": "VL-20107",
+    "stars": 4,
+    "date": "2026-06-21"
+  },
+  {
+    "review_id": "R-00687",
+    "product_id": "VL-20108",
+    "stars": 4,
+    "date": "2026-07-28"
+  },
+  {
+    "review_id": "R-00688",
+    "product_id": "VL-20109",
+    "stars": 4,
+    "date": "2026-02-07"
+  },
+  {
+    "review_id": "R-00689",
+    "product_id": "VL-20109",
+    "stars": 3,
+    "date": "2026-08-02"
+  },
+  {
+    "review_id": "R-00690",
+    "product_id": "VL-20109",
+    "stars": 4,
+    "date": "2026-03-23"
+  },
+  {
+    "review_id": "R-00691",
+    "product_id": "VL-20110",
+    "stars": 5,
+    "date": "2026-09-14"
+  },
+  {
+    "review_id": "R-00692",
+    "product_id": "VL-20111",
+    "stars": 3,
+    "date": "2026-08-24"
+  },
+  {
+    "review_id": "R-00693",
+    "product_id": "VL-20111",
+    "stars": 4,
+    "date": "2026-03-21"
+  },
+  {
+    "review_id": "R-00694",
+    "product_id": "VL-20111",
+    "stars": 4,
+    "date": "2026-07-03"
+  },
+  {
+    "review_id": "R-00695",
+    "product_id": "VL-20112",
+    "stars": 2,
+    "date": "2026-04-10"
+  },
+  {
+    "review_id": "R-00696",
+    "product_id": "VL-20113",
+    "stars": 5,
+    "date": "2026-07-23"
+  },
+  {
+    "review_id": "R-00697",
+    "product_id": "VL-20113",
+    "stars": 4,
+    "date": "2026-08-09"
+  },
+  {
+    "review_id": "R-00698",
+    "product_id": "VL-20113",
+    "stars": 3,
+    "date": "2026-04-03"
+  },
+  {
+    "review_id": "R-00699",
+    "product_id": "VL-20114",
+    "stars": 3,
+    "date": "2026-03-04"
+  },
+  {
+    "review_id": "R-00700",
+    "product_id": "VL-20114",
+    "stars": 2,
+    "date": "2026-03-15"
+  },
+  {
+    "review_id": "R-00701",
+    "product_id": "VL-20114",
+    "stars": 2,
+    "date": "2026-09-12"
+  },
+  {
+    "review_id": "R-00702",
+    "product_id": "VL-20115",
+    "stars": 4,
+    "date": "2026-08-10"
+  },
+  {
+    "review_id": "R-00703",
+    "product_id": "VL-20115",
+    "stars": 2,
+    "date": "2026-02-06"
+  },
+  {
+    "review_id": "R-00704",
+    "product_id": "VL-20115",
+    "stars": 4,
+    "date": "2026-05-27"
+  },
+  {
+    "review_id": "R-00705",
+    "product_id": "VL-20115",
+    "stars": 3,
+    "date": "2026-04-27"
+  },
+  {
+    "review_id": "R-00706",
+    "product_id": "VL-20116",
+    "stars": 3,
+    "date": "2026-02-23"
+  },
+  {
+    "review_id": "R-00707",
+    "product_id": "VL-20116",
+    "stars": 4,
+    "date": "2026-09-02"
+  },
+  {
+    "review_id": "R-00708",
+    "product_id": "VL-20117",
+    "stars": 4,
+    "date": "2026-03-01"
+  },
+  {
+    "review_id": "R-00709",
+    "product_id": "VL-20117",
+    "stars": 5,
+    "date": "2026-09-24"
+  },
+  {
+    "review_id": "R-00710",
+    "product_id": "VL-20117",
+    "stars": 3,
+    "date": "2026-09-08"
+  },
+  {
+    "review_id": "R-00711",
+    "product_id": "VL-20117",
+    "stars": 4,
+    "date": "2026-03-04"
+  },
+  {
+    "review_id": "R-00712",
+    "product_id": "VL-20117",
+    "stars": 4,
+    "date": "2026-01-02"
+  },
+  {
+    "review_id": "R-00713",
+    "product_id": "VL-20117",
+    "stars": 5,
+    "date": "2026-03-07"
+  },
+  {
+    "review_id": "R-00714",
+    "product_id": "VL-20118",
+    "stars": 2,
+    "date": "2026-02-19"
+  },
+  {
+    "review_id": "R-00715",
+    "product_id": "VL-20118",
+    "stars": 2,
+    "date": "2026-02-01"
+  },
+  {
+    "review_id": "R-00716",
+    "product_id": "VL-20118",
+    "stars": 3,
+    "date": "2026-02-07"
+  },
+  {
+    "review_id": "R-00717",
+    "product_id": "VL-20119",
+    "stars": 3,
+    "date": "2026-06-04"
+  },
+  {
+    "review_id": "R-00718",
+    "product_id": "VL-20119",
+    "stars": 3,
+    "date": "2026-01-15"
+  },
+  {
+    "review_id": "R-00719",
+    "product_id": "VL-20119",
+    "stars": 5,
+    "date": "2026-07-27"
+  },
+  {
+    "review_id": "R-00720",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-07-16"
+  },
+  {
+    "review_id": "R-00721",
+    "product_id": "VL-20119",
+    "stars": 5,
+    "date": "2026-03-12"
+  },
+  {
+    "review_id": "R-00722",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-04-06"
+  },
+  {
+    "review_id": "R-00723",
+    "product_id": "VL-20119",
+    "stars": 3,
+    "date": "2026-03-02"
+  },
+  {
+    "review_id": "R-00724",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-04-21"
+  },
+  {
+    "review_id": "R-00725",
+    "product_id": "VL-20119",
+    "stars": 3,
+    "date": "2026-09-16"
+  },
+  {
+    "review_id": "R-00726",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-01-03"
+  },
+  {
+    "review_id": "R-00727",
+    "product_id": "VL-20119",
+    "stars": 3,
+    "date": "2026-04-21"
+  },
+  {
+    "review_id": "R-00728",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-09-08"
+  },
+  {
+    "review_id": "R-00729",
+    "product_id": "VL-20119",
+    "stars": 2,
+    "date": "2026-01-13"
+  },
+  {
+    "review_id": "R-00730",
+    "product_id": "VL-20119",
+    "stars": 2,
+    "date": "2026-06-16"
+  },
+  {
+    "review_id": "R-00731",
+    "product_id": "VL-20119",
+    "stars": 2,
+    "date": "2026-09-11"
+  },
+  {
+    "review_id": "R-00732",
+    "product_id": "VL-20119",
+    "stars": 3,
+    "date": "2026-07-09"
+  },
+  {
+    "review_id": "R-00733",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-04-01"
+  },
+  {
+    "review_id": "R-00734",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-05-02"
+  },
+  {
+    "review_id": "R-00735",
+    "product_id": "VL-20119",
+    "stars": 4,
+    "date": "2026-06-25"
+  },
+  {
+    "review_id": "R-00736",
+    "product_id": "VL-20119",
+    "stars": 2,
+    "date": "2026-04-06"
+  },
+  {
+    "review_id": "R-00737",
+    "product_id": "VL-20121",
+    "stars": 3,
+    "date": "2026-01-25"
+  },
+  {
+    "review_id": "R-00738",
+    "product_id": "VL-20121",
+    "stars": 4,
+    "date": "2026-04-19"
+  },
+  {
+    "review_id": "R-00739",
+    "product_id": "VL-20121",
+    "stars": 5,
+    "date": "2026-06-27"
+  },
+  {
+    "review_id": "R-00740",
+    "product_id": "VL-20122",
+    "stars": 3,
+    "date": "2026-03-08"
+  },
+  {
+    "review_id": "R-00741",
+    "product_id": "VL-20122",
+    "stars": 3,
+    "date": "2026-06-19"
+  },
+  {
+    "review_id": "R-00742",
+    "product_id": "VL-20124",
+    "stars": 2,
+    "date": "2026-03-19"
+  },
+  {
+    "review_id": "R-00743",
+    "product_id": "VL-20124",
+    "stars": 5,
+    "date": "2026-08-18"
+  },
+  {
+    "review_id": "R-00744",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-05-06"
+  },
+  {
+    "review_id": "R-00745",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-04-20"
+  },
+  {
+    "review_id": "R-00746",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-04-01"
+  },
+  {
+    "review_id": "R-00747",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-04-26"
+  },
+  {
+    "review_id": "R-00748",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-03-11"
+  },
+  {
+    "review_id": "R-00749",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-06-02"
+  },
+  {
+    "review_id": "R-00750",
+    "product_id": "VL-20124",
+    "stars": 1,
+    "date": "2026-01-05"
+  },
+  {
+    "review_id": "R-00751",
+    "product_id": "VL-20124",
+    "stars": 2,
+    "date": "2026-02-28"
+  },
+  {
+    "review_id": "R-00752",
+    "product_id": "VL-20124",
+    "stars": 2,
+    "date": "2026-09-28"
+  },
+  {
+    "review_id": "R-00753",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-07-19"
+  },
+  {
+    "review_id": "R-00754",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-02-11"
+  },
+  {
+    "review_id": "R-00755",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-03-24"
+  },
+  {
+    "review_id": "R-00756",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-07-26"
+  },
+  {
+    "review_id": "R-00757",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00758",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-09-23"
+  },
+  {
+    "review_id": "R-00759",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-06-08"
+  },
+  {
+    "review_id": "R-00760",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-03-13"
+  },
+  {
+    "review_id": "R-00761",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-03-06"
+  },
+  {
+    "review_id": "R-00762",
+    "product_id": "VL-20124",
+    "stars": 5,
+    "date": "2026-01-23"
+  },
+  {
+    "review_id": "R-00763",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-01-06"
+  },
+  {
+    "review_id": "R-00764",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-06-26"
+  },
+  {
+    "review_id": "R-00765",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-02-16"
+  },
+  {
+    "review_id": "R-00766",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-03-11"
+  },
+  {
+    "review_id": "R-00767",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00768",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-02-27"
+  },
+  {
+    "review_id": "R-00769",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-06-15"
+  },
+  {
+    "review_id": "R-00770",
+    "product_id": "VL-20124",
+    "stars": 2,
+    "date": "2026-01-09"
+  },
+  {
+    "review_id": "R-00771",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-06-09"
+  },
+  {
+    "review_id": "R-00772",
+    "product_id": "VL-20124",
+    "stars": 5,
+    "date": "2026-02-24"
+  },
+  {
+    "review_id": "R-00773",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00774",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "review_id": "R-00775",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-07-04"
+  },
+  {
+    "review_id": "R-00776",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-08-26"
+  },
+  {
+    "review_id": "R-00777",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-04-06"
+  },
+  {
+    "review_id": "R-00778",
+    "product_id": "VL-20124",
+    "stars": 2,
+    "date": "2026-08-03"
+  },
+  {
+    "review_id": "R-00779",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-01-11"
+  },
+  {
+    "review_id": "R-00780",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-05-04"
+  },
+  {
+    "review_id": "R-00781",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00782",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-02-18"
+  },
+  {
+    "review_id": "R-00783",
+    "product_id": "VL-20124",
+    "stars": 5,
+    "date": "2026-06-20"
+  },
+  {
+    "review_id": "R-00784",
+    "product_id": "VL-20124",
+    "stars": 2,
+    "date": "2026-08-23"
+  },
+  {
+    "review_id": "R-00785",
+    "product_id": "VL-20124",
+    "stars": 5,
+    "date": "2026-03-20"
+  },
+  {
+    "review_id": "R-00786",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-07-06"
+  },
+  {
+    "review_id": "R-00787",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-04-14"
+  },
+  {
+    "review_id": "R-00788",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-09-24"
+  },
+  {
+    "review_id": "R-00789",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-05-10"
+  },
+  {
+    "review_id": "R-00790",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-04-04"
+  },
+  {
+    "review_id": "R-00791",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-08-05"
+  },
+  {
+    "review_id": "R-00792",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-01-12"
+  },
+  {
+    "review_id": "R-00793",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-08-07"
+  },
+  {
+    "review_id": "R-00794",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-02-01"
+  },
+  {
+    "review_id": "R-00795",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-02-16"
+  },
+  {
+    "review_id": "R-00796",
+    "product_id": "VL-20124",
+    "stars": 5,
+    "date": "2026-02-10"
+  },
+  {
+    "review_id": "R-00797",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-05-03"
+  },
+  {
+    "review_id": "R-00798",
+    "product_id": "VL-20124",
+    "stars": 2,
+    "date": "2026-09-13"
+  },
+  {
+    "review_id": "R-00799",
+    "product_id": "VL-20124",
+    "stars": 4,
+    "date": "2026-06-06"
+  },
+  {
+    "review_id": "R-00800",
+    "product_id": "VL-20124",
+    "stars": 5,
+    "date": "2026-08-02"
+  },
+  {
+    "review_id": "R-00801",
+    "product_id": "VL-20124",
+    "stars": 3,
+    "date": "2026-04-27"
+  },
+  {
+    "review_id": "R-00802",
+    "product_id": "VL-20125",
+    "stars": 5,
+    "date": "2026-03-25"
+  },
+  {
+    "review_id": "R-00803",
+    "product_id": "VL-20126",
+    "stars": 4,
+    "date": "2026-09-14"
+  },
+  {
+    "review_id": "R-00804",
+    "product_id": "VL-19950",
+    "stars": 3,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00805",
+    "product_id": "VL-19941",
+    "stars": 2,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00806",
+    "product_id": "VL-19899",
+    "stars": 5,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00807",
+    "product_id": "VL-19937",
+    "stars": 5,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00808",
+    "product_id": "VL-19946",
+    "stars": 3,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00809",
+    "product_id": "VL-19921",
+    "stars": 4,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00810",
+    "product_id": "VL-19820",
+    "stars": 5,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00811",
+    "product_id": "VL-19808",
+    "stars": 3,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00812",
+    "product_id": "VL-19830",
+    "stars": 5,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00813",
+    "product_id": "VL-19844",
+    "stars": 3,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00814",
+    "product_id": "VL-19854",
+    "stars": 3,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00815",
+    "product_id": "VL-19832",
+    "stars": 2,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00816",
+    "product_id": "VL-19908",
+    "stars": 2,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00817",
+    "product_id": "VL-19911",
+    "stars": 3,
+    "date": "2025-11-03"
+  },
+  {
+    "review_id": "R-00818",
+    "product_id": "VL-19837",
+    "stars": 4,
+    "date": "2025-11-03"
+  }
+]

@@ -1,0 +1,127 @@
+product_id,brand,model,category,motor_type,battery_wh,frame_size,color,weight_kg,price_chf,availability
+VL-20001,Fischer,Viator 4.0i,Trekking,Hecknabenmotor,504,S,Rot,27.5,1839,Vorbestellung
+VL-20002,Flyer,Gotour 6,Trekking,Mittelmotor,750,S,Grün,27.0,4639,Sofort lieferbar
+VL-20003,Fischer,Viator 4.0i,Trekking,Hecknabenmotor,504,S,Sand,27.7,2299,Sofort lieferbar
+VL-20004,Specialized,Turbo Vado 4.0,Trekking,Mittelmotor,710,S,Schwarz,23.9,4249,Lieferbar in 1–2 Wochen
+VL-20005,Stromer,ST1 Sport,Speed,Hecknabenmotor,618,XL,Grün,25.2,4999,Sofort lieferbar
+VL-20006,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,L,Grün,,7699,Sofort lieferbar
+VL-20007,Flyer,Gotour 6,Trekking,Mittelmotor,630,M,Sand,27.3,5299,Sofort lieferbar
+VL-20008,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,L,Grau,,7599,Sofort lieferbar
+VL-20009,Riese & Müller,Charger4,Trekking,Mittelmotor,750,S,Grün,,6799,Sofort lieferbar
+VL-20010,Trek,Fetch+ 2,Cargo,Mittelmotor,500,M,Rot,38.3,5999,Sofort lieferbar
+VL-20011,Flyer,Goroc X,E-MTB,Mittelmotor,750,S,Grau,26.1,6499,Vorbestellung
+VL-20012,Riese & Müller,Load4 75,Cargo,Mittelmotor,750,XL,Grau,,9099,Sofort lieferbar
+VL-20013,Stromer,ST5,Speed,Hecknabenmotor,983,XL,Grün,28.7,10199,Lieferbar in 1–2 Wochen
+VL-20014,Riese & Müller,Charger4,Trekking,Mittelmotor,750,S,Sand,,6799,Sofort lieferbar
+VL-20015,Stromer,ST1 Sport,Speed,Hecknabenmotor,618,XL,Blau,25.4,4999,Vorbestellung
+VL-20016,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,S,Rot,22.5,8199,Vorbestellung
+VL-20017,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,XL,Schwarz,25.8,6299,Sofort lieferbar
+VL-20018,Trek,Allant+ 7,Trekking,Mittelmotor,625,L,Sand,24.9,4499,Vorbestellung
+VL-20019,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,S,Grün,26.7,1799,Sofort lieferbar
+VL-20020,Specialized,Turbo Como,City,Mittelmotor,530,L,Grau,23.7,3699,Sofort lieferbar
+VL-20021,Cube,Ella Ride Hybrid,City,Mittelmotor,500,M,Grau,24.6,2799,Lieferbar in 1–2 Wochen
+VL-20022,Trek,Fetch+ 2,Cargo,Mittelmotor,500,M,Rot,38.3,5999,Sofort lieferbar
+VL-20023,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,XL,Schwarz,,7599,Sofort lieferbar
+VL-20024,Cube,Ella Ride Hybrid,City,Mittelmotor,500,M,Grün,23.9,2799,Sofort lieferbar
+VL-20025,Flyer,Upstreet 5,City,Mittelmotor,630,L,Schwarz,26.4,3759,Vorbestellung
+VL-20026,Cube,Ella Ride Hybrid,City,Mittelmotor,500,XL,Grau,24.2,2899,Lieferbar in 1–2 Wochen
+VL-20027,Specialized,Turbo Vado 4.0,Trekking,Mittelmotor,710,L,Blau,23.6,4999,Lieferbar in 1–2 Wochen
+VL-20028,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,L,Sand,22.5,7999,Sofort lieferbar
+VL-20029,Cube,Ella Ride Hybrid,City,Mittelmotor,500,L,Blau,24.6,2239,Sofort lieferbar
+VL-20030,Flyer,Gotour 6,Trekking,Mittelmotor,750,S,Schwarz,27.0,5399,Sofort lieferbar
+VL-20031,Cube,Kathmandu Hybrid,Trekking,Mittelmotor,750,S,Grau,27.4,3909,Lieferbar in 1–2 Wochen
+VL-20032,Flyer,Upstreet 5,City,Mittelmotor,750,XL,Grau,27.0,5199,Sofort lieferbar
+VL-20033,Haibike,Trekking 6,Trekking,Mittelmotor,630,S,Schwarz,25.7,3799,Vorbestellung
+VL-20034,Specialized,Turbo Como,City,Mittelmotor,530,S,Grün,23.2,3699,Sofort lieferbar
+VL-20035,Cube,Ella Ride Hybrid,City,Mittelmotor,500,S,Grün,24.2,2799,Sofort lieferbar
+VL-20036,Specialized,Turbo Vado 4.0,Trekking,Mittelmotor,710,L,Grau,23.9,4999,Sofort lieferbar
+VL-20037,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,S,Schwarz,,7499,Lieferbar in 1–2 Wochen
+VL-20038,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,M,Weiss,26.5,1799,Sofort lieferbar
+VL-20039,Cube,Ella Ride Hybrid,City,Mittelmotor,500,L,Grün,24.2,2799,Vorbestellung
+VL-20040,Flyer,Upstreet 5,City,Mittelmotor,750,M,Weiss,26.6,4159,Sofort lieferbar
+VL-20041,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,L,Grün,26.5,1799,Lieferbar in 1–2 Wochen
+VL-20042,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,S,Schwarz,26.0,6299,Sofort lieferbar
+VL-20043,Stromer,ST5,Speed,Hecknabenmotor,983,XL,Grün,28.9,9999,Sofort lieferbar
+VL-20044,Stromer,ST1 Sport,Speed,Hecknabenmotor,618,M,Blau,24.7,4999,Sofort lieferbar
+VL-20045,Flyer,Goroc X,E-MTB,Mittelmotor,750,M,Rot,25.6,6499,Sofort lieferbar
+VL-20046,Stromer,ST1 Sport,Speed,Hecknabenmotor,618,M,Grau,25.4,5199,Sofort lieferbar
+VL-20047,Cube,Kathmandu Hybrid,Trekking,Mittelmotor,750,L,Sand,27.1,4499,Lieferbar in 1–2 Wochen
+VL-20048,Cube,Ella Ride Hybrid,City,Mittelmotor,500,S,Sand,23.9,2799,Lieferbar in 1–2 Wochen
+VL-20049,Cube,Ella Ride Hybrid,City,Mittelmotor,500,M,Grau,24.4,2899,Sofort lieferbar
+VL-20050,Cube,Stereo Hybrid 140,E-MTB,Mittelmotor,750,L,Weiss,25.1,5499,Vorbestellung
+VL-20051,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,M,Grün,,6369,Sofort lieferbar
+VL-20052,Flyer,Goroc X,E-MTB,Mittelmotor,750,L,Blau,26.3,6699,Vorbestellung
+VL-20053,Trek,Allant+ 7,Trekking,Mittelmotor,625,XL,Schwarz,25.2,3959,Vorbestellung
+VL-20054,Trek,Fetch+ 2,Cargo,Mittelmotor,500,L,Grün,38.3,5399,Sofort lieferbar
+VL-20055,Stromer,ST1 Sport,Speed,Hecknabenmotor,618,L,Blau,25.2,5199,Sofort lieferbar
+VL-20056,Trek,Fetch+ 2,Cargo,Mittelmotor,500,XL,Rot,38.3,5999,Sofort lieferbar
+VL-20057,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,M,Blau,26.2,1899,Vorbestellung
+VL-20058,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,M,Grün,26.9,1899,Lieferbar in 1–2 Wochen
+VL-20059,Cube,Kathmandu Hybrid,Trekking,Mittelmotor,625,L,Grau,27.0,3199,Sofort lieferbar
+VL-20060,Stromer,ST5,Speed,Hecknabenmotor,983,S,Blau,28.5,9999,Lieferbar in 1–2 Wochen
+VL-20061,Fischer,Viator 4.0i,Trekking,Hecknabenmotor,504,M,Rot,27.7,2399,Sofort lieferbar
+VL-20062,Stromer,ST1 Sport,Speed,Hecknabenmotor,618,XL,Schwarz,25.0,4999,Vorbestellung
+VL-20063,Cube,Ella Ride Hybrid,City,Mittelmotor,500,L,Sand,24.2,2899,Lieferbar in 1–2 Wochen
+VL-20064,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,XL,Blau,26.9,1999,Sofort lieferbar
+VL-20065,Cube,Ella Ride Hybrid,City,Mittelmotor,500,L,Blau,24.6,2999,Sofort lieferbar
+VL-20066,Haibike,Trekking 6,Trekking,Mittelmotor,630,S,Grau,26.2,3799,Sofort lieferbar
+VL-20067,Cube,Ella Ride Hybrid,City,Mittelmotor,500,L,Grün,24.2,2379,Lieferbar in 1–2 Wochen
+VL-20068,Specialized,Turbo Vado 4.0,Trekking,Mittelmotor,710,S,Sand,24.3,4999,Vorbestellung
+VL-20069,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,L,Sand,,7499,Lieferbar in 1–2 Wochen
+VL-20070,Specialized,Turbo Vado 4.0,Trekking,Mittelmotor,710,S,Blau,23.9,4329,Sofort lieferbar
+VL-20071,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,S,Blau,,7599,Vorbestellung
+VL-20072,Ampler,Curt,City,Hecknabenmotor,336,M,Schwarz,16.2,2549,Sofort lieferbar
+VL-20073,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,L,Sand,,7499,Lieferbar in 1–2 Wochen
+VL-20074,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,S,Weiss,25.3,6299,Sofort lieferbar
+VL-20075,Fischer,Viator 4.0i,Trekking,Hecknabenmotor,504,M,Sand,27.0,2299,Sofort lieferbar
+VL-20076,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,S,Grün,26.5,1799,Sofort lieferbar
+VL-20077,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,S,Sand,22.8,7999,Sofort lieferbar
+VL-20078,Haibike,Trekking 6,Trekking,Mittelmotor,630,XL,Blau,25.7,3999,Sofort lieferbar
+VL-20079,Flyer,Gotour 6,Trekking,Mittelmotor,630,S,Sand,27.3,5299,Vorbestellung
+VL-20080,Flyer,Goroc X,E-MTB,Mittelmotor,750,S,Grün,26.3,6699,Sofort lieferbar
+VL-20081,Flyer,Upstreet 5,City,Mittelmotor,750,L,Rot,26.3,5299,Lieferbar in 1–2 Wochen
+VL-20082,Stromer,ST5,Speed,Hecknabenmotor,983,XL,Blau,28.7,9999,Lieferbar in 1–2 Wochen
+VL-20083,Ampler,Curt,City,Hecknabenmotor,336,S,Weiss,15.8,2999,Lieferbar in 1–2 Wochen
+VL-20084,Cube,Ella Ride Hybrid,City,Mittelmotor,500,XL,Sand,24.6,2999,Sofort lieferbar
+VL-20085,Cube,Kathmandu Hybrid,Trekking,Mittelmotor,750,L,Weiss,27.2,4499,Vorbestellung
+VL-20086,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,XL,Blau,25.6,5849,Vorbestellung
+VL-20087,Cube,Ella Ride Hybrid,City,Mittelmotor,500,S,Weiss,24.6,2899,Sofort lieferbar
+VL-20088,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,L,Blau,,7499,Vorbestellung
+VL-20089,Trek,Allant+ 7,Trekking,Mittelmotor,625,XL,Weiss,25.4,4399,Sofort lieferbar
+VL-20090,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,M,Grau,25.6,6299,Sofort lieferbar
+VL-20091,Specialized,Turbo Como,City,Mittelmotor,530,M,Weiss,23.7,3899,Sofort lieferbar
+VL-20092,Riese & Müller,Charger4,Trekking,Mittelmotor,750,M,Weiss,,6119,Sofort lieferbar
+VL-20093,Flyer,Goroc X,E-MTB,Mittelmotor,750,L,Blau,26.3,5199,Lieferbar in 1–2 Wochen
+VL-20094,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,S,Sand,22.5,6799,Sofort lieferbar
+VL-20095,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,S,Grau,,7499,Sofort lieferbar
+VL-20096,Ampler,Curt,City,Hecknabenmotor,336,M,Sand,15.8,2549,Vorbestellung
+VL-20097,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,XL,Weiss,,7599,Vorbestellung
+VL-20098,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,M,Rot,26.2,1999,Sofort lieferbar
+VL-20099,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,M,Schwarz,25.6,5039,Lieferbar in 1–2 Wochen
+VL-20100,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,L,Rot,22.5,7199,Lieferbar in 1–2 Wochen
+VL-20101,Flyer,Gotour 6,Trekking,Mittelmotor,630,M,Rot,27.1,5299,Sofort lieferbar
+VL-20102,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,L,Blau,25.3,5349,Sofort lieferbar
+VL-20103,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,XL,Blau,23.0,8099,Sofort lieferbar
+VL-20104,Fischer,Cita 1.0,City,Vorderradnabenmotor,418,S,Schwarz,26.7,1899,Sofort lieferbar
+VL-20105,Ampler,Curt,City,Hecknabenmotor,336,M,Blau,15.5,2999,Vorbestellung
+VL-20106,Fischer,Viator 4.0i,Trekking,Hecknabenmotor,504,XL,Rot,27.3,2299,Lieferbar in 1–2 Wochen
+VL-20107,Flyer,Gotour 6,Trekking,Mittelmotor,750,S,Sand,27.7,5799,Sofort lieferbar
+VL-20108,Riese & Müller,Load4 75,Cargo,Mittelmotor,1000,XL,Sand,,10099,Vorbestellung
+VL-20109,Flyer,Goroc X,E-MTB,Mittelmotor,750,XL,Sand,26.1,5199,Vorbestellung
+VL-20110,Flyer,Upstreet 5,City,Mittelmotor,750,XL,Rot,26.3,4499,Lieferbar in 1–2 Wochen
+VL-20111,Flyer,Goroc X,E-MTB,Mittelmotor,750,XL,Rot,25.9,6499,Lieferbar in 1–2 Wochen
+VL-20112,Stromer,ST1 Sport,Speed,Hecknabenmotor,618,L,Grün,25.0,5199,Sofort lieferbar
+VL-20113,Trek,Fetch+ 2,Cargo,Mittelmotor,500,S,Blau,37.9,5999,Sofort lieferbar
+VL-20114,Fischer,Viator 4.0i,Trekking,Hecknabenmotor,504,L,Blau,27.5,2399,Lieferbar in 1–2 Wochen
+VL-20115,Specialized,Turbo Como,City,Mittelmotor,530,M,Sand,23.5,3799,Sofort lieferbar
+VL-20116,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,L,Rot,25.8,6299,Sofort lieferbar
+VL-20117,Ampler,Curt,City,Hecknabenmotor,336,L,Weiss,16.2,2999,Vorbestellung
+VL-20118,Trek,Fetch+ 2,Cargo,Mittelmotor,500,M,Grün,38.1,6099,Lieferbar in 1–2 Wochen
+VL-20119,Cube,Ella Ride Hybrid,City,Mittelmotor,500,XL,Blau,24.4,2799,Sofort lieferbar
+VL-20120,Specialized,Turbo Como,City,Mittelmotor,530,XL,Schwarz,23.7,3699,Vorbestellung
+VL-20121,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,M,Schwarz,23.2,7999,Lieferbar in 1–2 Wochen
+VL-20122,Haibike,AllMtn 7,E-MTB,Mittelmotor,720,L,Sand,26.0,6499,Vorbestellung
+VL-20123,Riese & Müller,Multicharger2,Cargo,Mittelmotor,750,S,Grün,,7599,Sofort lieferbar
+VL-20124,Cube,Ella Ride Hybrid,City,Mittelmotor,500,S,Sand,23.9,2799,Sofort lieferbar
+VL-20125,Specialized,Turbo Levo,E-MTB,Mittelmotor,700,L,Weiss,22.5,6399,Sofort lieferbar
+VL-20126,Specialized,Turbo Vado 4.0,Trekking,Mittelmotor,710,M,Grau,24.3,4999,Sofort lieferbar

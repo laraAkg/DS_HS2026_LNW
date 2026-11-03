@@ -1,0 +1,133 @@
+product_id,brand,model,storage_gb,ram_gb,color,screen_inch,battery_h,price_chf,availability
+LL-30001,HP,Pavilion Plus 14,512,32,Silber,14.0,,1049.0,Vorbestellung
+LL-30002,Apple,MacBook Pro 16 M4 Pro,512,32,Space Schwarz,16.2,20.0,2599.0,Sofort lieferbar
+LL-30003,Apple,MacBook Pro 14 M4,1024,24,Space Schwarz,14.2,22.0,1849.0,Vorbestellung
+LL-30004,Dell,Inspiron 15,256,8,Schwarz,15.6,8.0,499.0,Vorbestellung
+LL-30005,Asus,ROG Strix G16,512,16,Schwarz,16.0,3.0,1899.0,Vorbestellung
+LL-30006,Lenovo,IdeaPad Slim 3,512,32,Grau,15.6,9.0,61900.0,Vorbestellung
+LL-30007,HP,HP 15,1024,16,Silber,15.6,8.0,,Sofort lieferbar
+LL-30008,Apple,MacBook Pro 16 M4 Pro,1024,32,Space Schwarz,16.2,19.0,2769.0,Vorbestellung
+LL-30009,Lenovo,ThinkPad E14,1024,32,Schwarz,14.0,11.0,1249.0,Vorbestellung
+LL-30010,Dell,XPS 13,512,16,Graphit,13.4,,1229.0,Sofort lieferbar
+LL-30011,Apple,MacBook Pro 14 M4,1024,24,Silber,14.2,21.0,2099.0,Lieferbar in 2–5 Tagen
+LL-30012,HP,HP 15,1024,8,Blau,15.6,8.0,569.0,Sofort lieferbar
+LL-30013,HP,Pavilion Plus 14,512,32,Silber,14.0,12.0,1049.0,Vorbestellung
+LL-30014,Asus,ROG Strix G16,512,24,Schwarz,16.0,4.0,1999.0,Vorbestellung
+LL-30015,Dell,XPS 13,256,8,Platin,13.4,14.0,1299.0,Sofort lieferbar
+LL-30016,Apple,MacBook Air 15 M4,2048,16,Silber,15.3,16.0,1949.0,Sofort lieferbar
+LL-30017,Microsoft,Surface Laptop 7,512,16,Saphir,13.8,,1059.0,Sofort lieferbar
+LL-30018,Lenovo,IdeaPad Slim 5,1024,8,Grau,14.0,12.0,949.0,Sofort lieferbar
+LL-30019,Lenovo,IdeaPad Slim 3,2048,16,Blau,15.6,9.0,1149.0,Sofort lieferbar
+LL-30020,Lenovo,IdeaPad Slim 5,1024,32,Grau,14.0,10.0,1099.0,Lieferbar in 2–5 Tagen
+LL-30021,Asus,Zenbook 14 OLED,512,32,Grau,14.0,15.0,1249.0,Sofort lieferbar
+LL-30022,Lenovo,IdeaPad Slim 3,256,16,Grau,15.6,9.0,399.0,Sofort lieferbar
+LL-30023,Dell,Latitude 7450,1024,16,Grau,14.0,13.0,1899.0,Sofort lieferbar
+LL-30024,Dell,Inspiron 15,1024,16,Silber,15.6,10.0,799.0,Sofort lieferbar
+LL-30025,Microsoft,Surface Laptop 7,1024,8,Saphir,13.8,17.0,1399.0,Lieferbar in 2–5 Tagen
+LL-30026,HP,OMEN 16,512,16,Schwarz,16.1,3.0,,Sofort lieferbar
+LL-30027,Lenovo,ThinkPad E14,256,16,Schwarz,14.0,10.0,799.0,Sofort lieferbar
+LL-30028,Acer,Aspire 3,256,8,Silber,15.6,4.0,259.0,Vorbestellung
+LL-30029,Apple,MacBook Pro 16 M4 Pro,512,32,Space Schwarz,16.2,22.0,2599.0,Vorbestellung
+LL-30030,HP,OMEN 16,512,32,Schwarz,16.1,5.0,1749.0,Vorbestellung
+LL-30031,HP,EliteBook 840,1024,8,Silber,14.0,11.0,1499.0,Lieferbar in 2–5 Tagen
+LL-30032,Dell,Latitude 7450,1024,24,Grau,14.0,14.0,1759.0,Sofort lieferbar
+LL-30033,Samsung,Galaxy Book4 Pro,512,32,Grau,14.0,14.0,1649.0,Vorbestellung
+LL-30034,Apple,MacBook Air 13 M4,512,16,Himmelblau,13.6,19.0,969.0,Sofort lieferbar
+LL-30035,Asus,Vivobook 15,512,8,Blau,15.6,5.0,499.0,Vorbestellung
+LL-30036,HP,EliteBook 840,512,16,Silber,14.0,11.0,1499.0,Sofort lieferbar
+LL-30037,Acer,Aspire 3,2048,16,Silber,15.6,6.0,999.0,Sofort lieferbar
+LL-30038,Lenovo,ThinkPad E14,1024,32,Schwarz,14.0,12.0,1249.0,Sofort lieferbar
+LL-30039,Lenovo,Legion 5,1024,16,Grau,16.0,7.0,1499.0,Lieferbar in 2–5 Tagen
+LL-30040,Samsung,Galaxy Book4 Pro,512,16,Grau,14.0,16.0,1319.0,Sofort lieferbar
+LL-30041,Dell,Latitude 7450,512,24,Grau,14.0,14.0,1579.0,Lieferbar in 2–5 Tagen
+LL-30042,Acer,Swift Go 14,512,8,Silber,14.0,11.0,799.0,Lieferbar in 2–5 Tagen
+LL-30043,Microsoft,Surface Laptop 7,2048,16,Platin,13.8,,1799.0,Lieferbar in 2–5 Tagen
+LL-30044,Acer,Swift Go 14,512,8,Silber,14.0,10.0,799.0,Lieferbar in 2–5 Tagen
+LL-30045,HP,OMEN 16,2048,16,Schwarz,16.1,3.0,2199.0,Sofort lieferbar
+LL-30046,Apple,MacBook Air 13 M4,512,32,Mitternacht,13.6,16.0,1249.0,Vorbestellung
+LL-30047,Acer,Aspire 3,1024,16,Silber,15.6,7.0,529.0,Sofort lieferbar
+LL-30048,Apple,MacBook Air 13 M4,2048,8,Mitternacht,13.6,21.0,1699.0,Lieferbar in 2–5 Tagen
+LL-30049,Lenovo,ThinkPad E14,512,8,Schwarz,14.0,10.0,899.0,Vorbestellung
+LL-30050,Lenovo,ThinkPad X1 Carbon,2048,32,Schwarz,14.0,14.0,2749.0,Sofort lieferbar
+LL-30051,Apple,MacBook Air 15 M4,2048,16,Silber,15.3,20.0,1949.0,Vorbestellung
+LL-30052,Lenovo,IdeaPad Slim 3,1024,16,Grau,15.6,9.0,749.0,Lieferbar in 2–5 Tagen
+LL-30053,Lenovo,IdeaPad Slim 5,1024,8,Grau,14.0,12.0,949.0,Sofort lieferbar
+LL-30054,Lenovo,IdeaPad Slim 3,1024,8,Blau,15.6,9.0,749.0,Vorbestellung
+LL-30055,Asus,Vivobook 15,1024,32,Silber,15.6,7.0,849.0,Vorbestellung
+LL-30056,Apple,MacBook Air 15 M4,512,16,Mitternacht,15.3,18.0,1349.0,Vorbestellung
+LL-30057,Dell,XPS 13,1024,8,Graphit,13.4,12.0,1599.0,Lieferbar in 2–5 Tagen
+LL-30058,HP,Pavilion Plus 14,1024,16,Silber,14.0,12.0,1099.0,Vorbestellung
+LL-30059,Asus,Zenbook 14 OLED,1024,16,Grau,14.0,13.0,1299.0,Vorbestellung
+LL-30060,Lenovo,ThinkPad E14,1024,16,Schwarz,14.0,11.0,1099.0,Lieferbar in 2–5 Tagen
+LL-30061,HP,Pavilion Plus 14,256,16,Silber,14.0,11.0,799.0,Sofort lieferbar
+LL-30062,Apple,MacBook Pro 16 M4 Pro,2048,16,Space Schwarz,16.2,19.0,3399.0,Sofort lieferbar
+LL-30063,Lenovo,Legion 5,512,32,Grau,16.0,,1449.0,Lieferbar in 2–5 Tagen
+LL-30064,Dell,Latitude 7450,512,32,Grau,14.0,15.0,1849.0,Lieferbar in 2–5 Tagen
+LL-30065,Asus,Vivobook 15,512,16,Blau,15.6,7.0,499.0,Sofort lieferbar
+LL-30066,Apple,MacBook Pro 14 M4,2048,24,Silber,14.2,,2199.0,Lieferbar in 2–5 Tagen
+LL-30067,Microsoft,Surface Laptop 7,256,32,Saphir,13.8,16.0,1249.0,Vorbestellung
+LL-30068,Apple,MacBook Pro 14 M4,256,16,Space Schwarz,14.2,21.0,1699.0,Sofort lieferbar
+LL-30069,Lenovo,Legion 5,512,8,Grau,16.0,5.0,1499.0,Sofort lieferbar
+LL-30070,Lenovo,IdeaPad Slim 3,512,16,Blau,15.6,8.0,549.0,Sofort lieferbar
+LL-30071,Apple,MacBook Pro 14 M4,512,16,Space Schwarz,14.2,24.0,1799.0,Lieferbar in 2–5 Tagen
+LL-30072,Apple,MacBook Pro 14 M4,512,16,Silber,14.2,22.0,1799.0,Sofort lieferbar
+LL-30073,Acer,Aspire 3,512,8,Silber,15.6,7.0,399.0,Lieferbar in 2–5 Tagen
+LL-30074,Apple,MacBook Air 13 M4,512,32,Polarstern,13.6,20.0,1249.0,Vorbestellung
+LL-30075,Lenovo,IdeaPad Slim 3,256,16,Grau,15.6,11.0,449.0,Sofort lieferbar
+LL-30076,Apple,MacBook Air 15 M4,512,16,Silber,15.3,18.0,1349.0,Vorbestellung
+LL-30077,Lenovo,ThinkPad E14,512,32,Schwarz,14.0,10.0,1049.0,Sofort lieferbar
+LL-30078,HP,EliteBook 840,256,16,Silber,14.0,13.0,1229.0,Vorbestellung
+LL-30079,Asus,Zenbook 14 OLED,512,32,Grau,14.0,13.0,1099.0,Sofort lieferbar
+LL-30080,Acer,Nitro V 15,1024,32,Schwarz,15.6,3.0,1249.0,Vorbestellung
+LL-30081,HP,HP 15,1024,16,Blau,15.6,9.0,649.0,Sofort lieferbar
+LL-30082,Microsoft,Surface Laptop 7,2048,16,Saphir,13.8,18.0,1799.0,Sofort lieferbar
+LL-30083,Lenovo,IdeaPad Slim 3,256,8,Blau,15.6,9.0,449.0,Lieferbar in 2–5 Tagen
+LL-30084,Lenovo,IdeaPad Slim 5,256,8,Grau,14.0,11.0,649.0,Vorbestellung
+LL-30085,Acer,Nitro V 15,512,16,Schwarz,15.6,5.0,899.0,Lieferbar in 2–5 Tagen
+LL-30086,Lenovo,IdeaPad Slim 5,512,16,Grau,14.0,11.0,749.0,Sofort lieferbar
+LL-30087,HP,Pavilion Plus 14,1024,16,Silber,14.0,11.0,969.0,Sofort lieferbar
+LL-30088,HP,EliteBook 840,512,8,Silber,14.0,14.0,1499.0,Lieferbar in 2–5 Tagen
+LL-30089,Lenovo,Legion 5,1024,16,Grau,16.0,7.0,1499.0,Sofort lieferbar
+LL-30090,Lenovo,Legion 5,256,16,Grau,16.0,6.0,1399.0,Lieferbar in 2–5 Tagen
+LL-30091,Apple,MacBook Air 13 M4,512,16,Mitternacht,13.6,19.0,1099.0,Vorbestellung
+LL-30092,Asus,Vivobook 15,2048,16,Blau,15.6,8.0,1099.0,Sofort lieferbar
+LL-30093,Samsung,Galaxy Book4 Pro,1024,16,Grau,14.0,16.0,1699.0,Sofort lieferbar
+LL-30094,Microsoft,Surface Laptop 7,1024,32,Platin,13.8,17.0,1549.0,Vorbestellung
+LL-30095,Asus,Vivobook 15,1024,8,Silber,15.6,6.0,699.0,Sofort lieferbar
+LL-30096,Apple,MacBook Air 13 M4,256,16,Mitternacht,13.6,18.0,999.0,Lieferbar in 2–5 Tagen
+LL-30097,Dell,XPS 13,1024,8,Graphit,13.4,17.0,1599.0,Lieferbar in 2–5 Tagen
+LL-30098,Lenovo,Legion 5,256,32,Grau,16.0,6.0,1549.0,Vorbestellung
+LL-30099,Apple,MacBook Pro 14 M4,2048,32,Space Schwarz,14.2,22.0,2549.0,Sofort lieferbar
+LL-30100,Lenovo,ThinkPad X1 Carbon,2048,16,Schwarz,14.0,14.0,2289.0,Lieferbar in 2–5 Tagen
+LL-30101,HP,OMEN 16,256,24,Schwarz,16.1,4.0,1599.0,Sofort lieferbar
+LL-30102,Acer,Aspire 3,1024,16,Silber,15.6,7.0,529.0,Sofort lieferbar
+LL-30103,Lenovo,Legion 5,1024,16,Grau,16.0,5.0,1699.0,Sofort lieferbar
+LL-30104,Dell,Latitude 7450,256,24,Grau,14.0,11.0,1699.0,Sofort lieferbar
+LL-30105,Acer,Nitro V 15,1024,16,Schwarz,15.6,6.0,1099.0,Lieferbar in 2–5 Tagen
+LL-30106,Dell,XPS 13,1024,8,Graphit,13.4,13.0,1599.0,Sofort lieferbar
+LL-30107,Apple,MacBook Pro 14 M4,1024,16,Space Schwarz,14.2,24.0,1999.0,Vorbestellung
+LL-30108,Dell,XPS 13,512,32,Graphit,13.4,14.0,1359.0,Sofort lieferbar
+LL-30109,Asus,ROG Strix G16,256,16,Schwarz,16.0,6.0,1799.0,Sofort lieferbar
+LL-30110,Lenovo,IdeaPad Slim 3,1024,16,Blau,15.6,8.0,749.0,Sofort lieferbar
+LL-30111,Dell,Latitude 7450,1024,24,Grau,14.0,13.0,1759.0,Lieferbar in 2–5 Tagen
+LL-30112,Acer,Nitro V 15,1024,32,Schwarz,15.6,5.0,1249.0,Lieferbar in 2–5 Tagen
+LL-30113,HP,EliteBook 840,512,16,Silber,14.0,13.0,1319.0,Sofort lieferbar
+LL-30114,HP,Pavilion Plus 14,2048,16,Silber,14.0,12.0,1499.0,Sofort lieferbar
+LL-30115,Microsoft,Surface Laptop 7,256,16,Platin,13.8,16.0,,Lieferbar in 2–5 Tagen
+LL-30116,HP,OMEN 16,1024,16,Schwarz,16.1,5.0,1799.0,Sofort lieferbar
+LL-30117,Apple,MacBook Air 15 M4,512,8,Silber,15.3,18.0,1189.0,Sofort lieferbar
+LL-30118,Lenovo,ThinkPad X1 Carbon,512,24,Schwarz,14.0,,2099.0,Sofort lieferbar
+LL-30119,Dell,Inspiron 15,256,32,Schwarz,15.6,7.0,649.0,Sofort lieferbar
+LL-30120,Apple,MacBook Air 15 M4,2048,32,Mitternacht,15.3,20.0,2099.0,Sofort lieferbar
+LL-30121,Dell,Latitude 7450,256,32,Grau,14.0,13.0,1539.0,Lieferbar in 2–5 Tagen
+LL-30122,HP,Pavilion Plus 14,512,16,Silber,14.0,10.0,899.0,Lieferbar in 2–5 Tagen
+LL-30123,Acer,Swift Go 14,512,16,Silber,14.0,12.0,,Sofort lieferbar
+LL-30124,Lenovo,IdeaPad Slim 5,1024,16,Grau,14.0,12.0,839.0,Vorbestellung
+LL-30125,Lenovo,ThinkPad X1 Carbon,1024,24,Schwarz,14.0,15.0,2299.0,Lieferbar in 2–5 Tagen
+LL-30126,Lenovo,IdeaPad Slim 3,1024,16,Grau,15.6,10.0,659.0,Sofort lieferbar
+LL-30127,Asus,Zenbook 14 OLED,256,16,Grau,14.0,14.0,,Vorbestellung
+LL-30128,Lenovo,ThinkPad E14,256,32,Schwarz,14.0,10.0,949.0,Lieferbar in 2–5 Tagen
+LL-30129,Lenovo,Legion 5,512,8,Grau,16.0,6.0,1499.0,Sofort lieferbar
+LL-30130,Acer,Nitro V 15,1024,16,Schwarz,15.6,5.0,969.0,Lieferbar in 2–5 Tagen
+LL-30131,HP,OMEN 16,1024,24,Schwarz,16.1,4.0,1899.0,Sofort lieferbar
+LL-30132,Lenovo,IdeaPad Slim 3,256,32,Blau,15.6,9.0,599.0,Vorbestellung
